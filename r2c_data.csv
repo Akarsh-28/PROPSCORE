@@ -1,0 +1,601 @@
+user_id,user_type,signup_date,first_visit_date,last_active_date,institution_or_company,country,traffic_source,device_type,total_sessions,total_pageviews,avg_session_duration_sec,papers_analyzed,reports_downloaded,used_crs_score,used_gap_analysis,used_industry_fit,used_comparison_tool,used_pitch_export,used_due_diligence,used_ip_patent_check,converted_to_paid,plan_purchased,payment_amount_inr,days_to_conversion,payment_date,churned,support_tickets_raised
+usr_b797b9c148,researcher,2026-03-22,2026-03-22,2026-03-23,Anna University,India,referral,desktop,10,40,107,4,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_b66d631bd8,researcher,2026-01-11,2026-01-11,2026-01-16,IIT Hyderabad,UAE,direct,desktop,13,91,94,3,1,True,True,False,True,False,,,False,none,0,,,False,1
+usr_bb9c9f4de4,researcher,2026-06-02,2026-06-02,2026-07-22,IIT Bombay,India,direct,mobile,5,15,104,3,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_7402ffe171,industry,2026-03-20,2026-03-20,2026-06-10,GreenGrid Energy,India,industry_event,desktop,17,85,495,9,2,,,True,False,True,True,False,False,none,0,,,False,0
+usr_5204cbd21c,industry,2026-05-27,2026-05-27,2026-06-14,Bharat Semiconductors,India,organic_search,desktop,9,54,86,7,0,,,True,False,True,False,True,False,none,0,,,False,1
+usr_994b3b305d,researcher,2026-05-28,2026-05-28,2026-06-05,IIT Roorkee,India,university_partner,desktop,11,88,185,3,3,True,True,True,False,False,,,False,none,0,,,False,0
+usr_2b4ab80b06,researcher,2026-05-07,2026-05-07,2026-05-11,IIT Roorkee,UAE,google_ads,desktop,1,7,186,5,4,True,True,False,False,False,,,False,none,0,,,True,0
+usr_d2b11e0014,researcher,2026-06-28,2026-06-28,2026-07-16,Delhi University,India,linkedin,desktop,4,28,99,4,4,True,True,True,False,False,,,False,none,0,,,False,0
+usr_71f3fa54ba,researcher,2026-06-04,2026-06-04,2026-07-05,Independent Researcher,India,organic_search,desktop,5,30,282,2,2,True,False,True,True,False,,,False,none,0,,,False,0
+usr_b4a7260a43,industry,2026-05-18,2026-05-18,2026-05-23,IronClad Defense Systems,India,linkedin,desktop,13,52,234,12,1,,,True,True,True,True,True,False,none,0,,,True,0
+usr_fa07e1a061,researcher,2026-05-04,2026-05-04,2026-06-20,IIT Bombay,India,university_partner,desktop,3,15,156,1,0,True,False,True,True,False,,,False,none,0,,,False,0
+usr_6fdb46770d,researcher,2026-07-07,2026-07-07,2026-07-16,BITS Pilani,India,word_of_mouth,desktop,10,30,43,3,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_c93d2f0aa4,industry,2026-02-22,2026-02-22,2026-07-18,AgroFuture Labs,India,linkedin,mobile,9,99,155,8,3,,,True,True,False,False,False,False,none,0,,,False,1
+usr_76458c5c75,industry,2026-04-22,2026-04-22,2026-05-09,AgroFuture Labs,Germany,referral,mobile,5,45,337,10,0,,,True,True,False,False,True,False,none,0,,,True,0
+usr_8027e05529,industry,2026-07-17,2026-07-17,2026-07-24,DeepCore AI,India,industry_event,desktop,1,4,388,14,5,,,True,True,False,True,True,False,none,0,,,False,1
+usr_79c099ef1f,researcher,2026-02-04,2026-02-04,2026-03-24,IIT Madras,India,referral,mobile,8,32,52,0,0,False,True,False,False,False,,,False,none,0,,,False,0
+usr_0341dec594,researcher,2026-04-30,2026-04-30,2026-05-07,Independent Researcher,India,email_campaign,mobile,7,63,102,1,1,True,False,False,False,False,,,False,none,0,,,True,0
+usr_4d33870c8d,researcher,2026-06-06,2026-06-06,2026-07-20,BITS Pilani,India,organic_search,desktop,9,72,122,5,1,True,False,True,False,False,,,False,none,0,,,False,0
+usr_52261c6635,researcher,2026-06-16,2026-06-16,2026-06-29,BITS Pilani,India,direct,desktop,1,4,82,1,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_2fe1f82fac,researcher,2026-02-09,2026-02-09,2026-05-04,Delhi University,Germany,organic_search,desktop,1,8,101,1,0,True,True,False,False,False,,,False,none,0,,,True,0
+usr_8feba815b0,researcher,2026-01-19,2026-01-19,2026-06-30,NIT Trichy,India,email_campaign,desktop,8,56,196,0,0,False,True,True,False,False,,,False,none,0,,,False,1
+usr_eb4cc2db9b,industry,2026-02-02,2026-02-02,2026-07-22,Helios Renewables,India,organic_search,desktop,7,28,269,9,5,,,True,True,False,True,False,False,none,0,,,False,0
+usr_301e2727f1,industry,2026-06-10,2026-06-10,2026-07-19,Prime Biotech,India,word_of_mouth,desktop,11,99,424,5,5,,,True,True,False,False,True,False,none,0,,,False,0
+usr_86e0fa94fd,industry,2026-05-11,2026-05-11,2026-06-01,GreenGrid Energy,India,direct,mobile,12,120,205,12,4,,,True,False,True,True,False,False,none,0,,,True,0
+usr_35583954d2,researcher,2026-07-17,2026-07-17,2026-07-19,IIT Delhi,UAE,organic_search,desktop,1,6,20,2,2,True,True,False,True,False,,,False,none,0,,,False,0
+usr_4865b3e932,researcher,2026-05-07,2026-05-07,2026-07-13,IIITD,USA,linkedin,mobile,4,36,273,5,3,True,True,True,False,False,,,False,none,0,,,False,0
+usr_07f19b9421,researcher,2026-06-21,2026-06-21,2026-07-24,NIT Trichy,India,industry_event,mobile,1,3,310,3,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_2fb26c3b11,industry,2026-06-05,2026-06-05,2026-06-10,DeepCore AI,Germany,industry_event,desktop,14,140,221,6,3,,,True,True,False,True,False,True,industry_premium,20000,17,2026-06-22,False,0
+usr_82cf1f49a4,researcher,2026-07-12,2026-07-12,2026-07-17,IIT Hyderabad,India,university_partner,desktop,5,20,235,0,0,False,False,False,False,False,,,False,none,0,,,False,2
+usr_5793991b04,researcher,2026-05-16,2026-05-16,2026-07-12,Delhi University,India,google_ads,mobile,5,45,225,1,0,True,False,True,False,False,,,False,none,0,,,False,0
+usr_821b47ea89,researcher,2026-01-16,2026-01-16,2026-02-02,Anna University,India,linkedin,desktop,6,24,153,5,3,True,True,True,False,False,,,False,none,0,,,True,0
+usr_d7dc6d544b,researcher,2026-03-12,2026-03-12,2026-06-12,IIT Delhi,India,university_partner,desktop,11,88,245,1,0,True,True,True,False,False,,,True,researcher_basic,300,16,2026-03-28,False,0
+usr_cbc70dbaef,industry,2026-07-16,2026-07-16,2026-07-21,Fusion Dynamics Corp,USA,email_campaign,mobile,3,30,305,8,3,,,True,False,False,True,False,False,none,0,,,False,0
+usr_1334d069d5,researcher,2026-06-29,2026-06-29,2026-07-12,IIT Hyderabad,Singapore,google_ads,desktop,4,24,260,3,3,True,True,True,True,False,,,False,none,0,,,False,0
+usr_67b934f569,industry,2026-05-03,2026-05-03,2026-07-14,Fusion Dynamics Corp,India,university_partner,desktop,3,15,385,14,2,,,True,False,True,True,True,False,none,0,,,False,0
+usr_f0fa572f78,researcher,2026-04-23,2026-04-23,2026-05-23,NIT Trichy,India,email_campaign,desktop,7,35,68,0,0,False,True,True,False,False,,,False,none,0,,,False,0
+usr_f6c0f6cb40,researcher,2026-07-18,2026-07-18,2026-07-22,Anna University,India,linkedin,desktop,3,24,230,0,0,False,False,False,False,False,,,False,none,0,,,False,0
+usr_20c54e7a97,industry,2026-04-20,2026-04-20,2026-06-20,Vertex Manufacturing,India,google_ads,desktop,10,120,245,3,1,,,True,True,False,False,True,False,none,0,,,False,1
+usr_86aea66473,researcher,2026-04-21,2026-04-21,2026-06-24,IIT Kanpur,India,industry_event,mobile,1,5,110,4,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_350c276580,researcher,2026-02-05,2026-02-05,2026-03-24,IIT Roorkee,Singapore,word_of_mouth,desktop,4,36,281,1,0,True,False,True,False,False,,,False,none,0,,,True,0
+usr_cbe94b663d,researcher,2026-02-06,2026-02-06,2026-04-27,IIT Roorkee,USA,linkedin,mobile,4,28,94,2,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_59bfc1e9a9,researcher,2026-04-20,2026-04-20,2026-06-08,IISc Bangalore,India,industry_event,mobile,9,45,186,0,0,False,False,True,False,False,,,False,none,0,,,False,0
+usr_91d841f414,researcher,2026-07-22,2026-07-22,2026-07-24,Anna University,Germany,direct,desktop,2,14,234,5,3,True,True,True,True,False,,,False,none,0,,,False,0
+usr_c06ea7f213,researcher,2026-03-20,2026-03-20,2026-03-28,IIT Roorkee,India,email_campaign,mobile,1,8,20,0,0,False,False,True,False,False,,,False,none,0,,,False,1
+usr_4aa25239e3,researcher,2026-04-12,2026-04-12,2026-04-28,IIT Bombay,Germany,university_partner,mobile,9,63,196,3,0,True,False,True,False,False,,,False,none,0,,,True,0
+usr_e22337d93e,researcher,2026-01-20,2026-01-20,2026-03-11,BITS Pilani,India,organic_search,desktop,6,54,216,3,2,True,True,True,False,False,,,True,researcher_basic,300,19,2026-02-08,False,0
+usr_3d9d49cfb8,industry,2026-04-27,2026-04-27,2026-06-04,Quantum Analytics Inc,India,google_ads,desktop,1,6,157,12,1,,,True,True,False,False,True,False,none,0,,,True,1
+usr_a85b838a28,researcher,2026-01-26,2026-01-26,2026-05-11,IIT Madras,Singapore,direct,tablet,3,18,224,2,1,True,True,True,True,False,,,False,none,0,,,True,0
+usr_e1cb4669c4,industry,2026-02-05,2026-02-05,2026-06-02,NextGen Pharma,India,referral,mobile,18,180,470,9,2,,,True,False,True,False,False,False,none,0,,,False,1
+usr_3bb2c6ed3a,researcher,2026-07-12,2026-07-12,2026-07-25,Anna University,Germany,industry_event,mobile,1,7,104,5,5,True,True,True,True,False,,,False,none,0,,,False,0
+usr_85e3601ae9,industry,2026-02-06,2026-02-06,2026-03-10,Helios Renewables,Germany,word_of_mouth,mobile,13,91,434,5,3,,,True,True,False,False,False,False,none,0,,,True,0
+usr_cd0fa58cc8,researcher,2026-03-15,2026-03-15,2026-04-30,IIT Roorkee,Singapore,word_of_mouth,tablet,10,30,108,5,3,True,True,False,True,False,,,False,none,0,,,False,1
+usr_424735794c,industry,2026-04-01,2026-04-01,2026-07-17,MedTech Solutions,India,university_partner,mobile,4,28,135,9,3,,,True,True,True,False,False,False,none,0,,,False,1
+usr_fcc990ee5f,researcher,2026-02-09,2026-02-09,2026-03-07,BITS Pilani,India,industry_event,desktop,1,5,38,1,1,True,True,True,False,False,,,False,none,0,,,False,2
+usr_883e037703,researcher,2026-02-12,2026-02-12,2026-04-02,BITS Pilani,India,email_campaign,desktop,7,56,189,1,0,True,False,False,False,False,,,False,none,0,,,True,1
+usr_c96509be73,researcher,2026-05-19,2026-05-19,2026-07-10,Delhi University,India,organic_search,tablet,7,63,258,3,3,True,True,True,True,True,,,False,none,0,,,False,0
+usr_2db1271528,industry,2026-06-16,2026-06-16,2026-07-16,Prime Biotech,India,industry_event,mobile,7,28,250,7,4,,,True,True,True,False,True,False,none,0,,,False,0
+usr_734879e276,researcher,2026-05-14,2026-05-14,2026-07-22,NIT Trichy,India,linkedin,mobile,9,36,104,5,4,True,True,False,False,False,,,False,none,0,,,False,0
+usr_ff9d5ba363,industry,2026-04-16,2026-04-16,2026-07-05,TerraSoil Agritech,Singapore,word_of_mouth,mobile,9,54,379,13,1,,,False,True,False,True,True,True,industry_standard,15000,51,2026-06-06,False,0
+usr_2f00956f47,researcher,2026-06-20,2026-06-20,2026-07-20,IIT Bombay,India,google_ads,mobile,9,72,98,4,4,True,False,True,True,False,,,True,researcher_basic,300,21,2026-07-11,False,1
+usr_404b0490ad,industry,2026-07-16,2026-07-16,2026-07-19,Vertex Manufacturing,India,referral,tablet,7,28,201,4,4,,,True,True,False,False,True,False,none,0,,,False,0
+usr_d190735f2e,researcher,2026-02-15,2026-02-15,2026-04-07,IIITD,India,word_of_mouth,mobile,4,28,183,1,1,True,True,True,False,False,,,False,none,0,,,False,1
+usr_f94a1233a0,industry,2026-01-25,2026-01-25,2026-04-17,Nova Materials Pvt Ltd,India,linkedin,desktop,11,88,270,4,1,,,True,True,False,True,True,False,none,0,,,False,3
+usr_bbc9719c9b,industry,2026-02-12,2026-02-12,2026-05-12,AgroFuture Labs,India,direct,desktop,2,12,317,10,4,,,False,True,False,False,False,False,none,0,,,False,2
+usr_e038cd3ff9,industry,2026-06-26,2026-06-26,2026-07-10,Vertex Manufacturing,India,industry_event,desktop,11,99,368,14,0,,,False,True,False,True,True,True,industry_premium,20000,11,2026-07-07,False,0
+usr_8d64a92a62,researcher,2026-04-07,2026-04-07,2026-05-27,IIT Madras,India,linkedin,mobile,1,3,107,2,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_89a7ece105,researcher,2026-06-02,2026-06-02,2026-06-03,VIT Vellore,India,linkedin,desktop,11,66,155,2,0,True,False,False,False,False,,,False,none,0,,,True,0
+usr_0419f6ff20,industry,2026-05-20,2026-05-20,2026-07-23,DeepCore AI,UAE,email_campaign,desktop,9,63,187,5,4,,,True,True,False,False,False,False,none,0,,,False,0
+usr_d802b44a37,researcher,2026-06-25,2026-06-25,2026-07-24,NIT Trichy,India,direct,desktop,1,6,191,5,5,True,True,False,True,False,,,False,none,0,,,False,0
+usr_1830e4c37e,researcher,2026-04-27,2026-04-27,2026-06-26,IIT Kanpur,India,google_ads,mobile,1,5,157,0,0,False,False,False,False,False,,,False,none,0,,,False,0
+usr_3c7de89898,researcher,2026-01-05,2026-01-05,2026-06-04,Anna University,UAE,google_ads,mobile,6,36,37,0,0,False,True,False,False,False,,,False,none,0,,,True,0
+usr_47ae0d6aa4,researcher,2026-02-03,2026-02-03,2026-06-05,IIT Bombay,UAE,google_ads,mobile,4,36,259,3,0,True,False,True,False,True,,,False,none,0,,,True,0
+usr_ac368a4e07,industry,2026-01-05,2026-01-05,2026-01-12,DeepCore AI,India,email_campaign,desktop,7,35,366,4,0,,,True,False,False,False,True,False,none,0,,,True,1
+usr_b54aed9eb9,researcher,2026-05-25,2026-05-25,2026-05-28,Delhi University,India,word_of_mouth,desktop,8,56,145,5,3,True,True,True,True,False,,,True,researcher_basic,300,17,2026-06-11,False,0
+usr_f2c42cdd37,researcher,2026-06-25,2026-06-25,2026-07-09,IIT Delhi,India,email_campaign,desktop,8,40,183,0,0,False,True,True,False,False,,,False,none,0,,,False,0
+usr_9bfcde0340,researcher,2026-05-06,2026-05-06,2026-05-20,IIT Madras,Germany,industry_event,desktop,1,3,230,2,0,True,True,False,False,False,,,False,none,0,,,True,1
+usr_9d5c4677a1,researcher,2026-01-06,2026-01-06,2026-04-27,Anna University,Singapore,google_ads,desktop,1,5,270,2,1,True,True,False,False,False,,,False,none,0,,,True,2
+usr_80cc3cb1c4,researcher,2026-03-08,2026-03-08,2026-05-24,Anna University,India,industry_event,mobile,10,30,303,1,1,True,False,False,False,False,,,False,none,0,,,True,0
+usr_6c406d70bb,industry,2026-02-17,2026-02-17,2026-04-06,IronClad Defense Systems,India,email_campaign,desktop,1,8,311,3,1,,,True,True,False,True,False,True,industry_standard,15000,36,2026-03-25,False,1
+usr_729500225f,researcher,2026-05-12,2026-05-12,2026-07-25,NIT Trichy,India,organic_search,mobile,4,36,253,5,2,True,True,False,False,False,,,True,researcher_basic,300,16,2026-05-28,False,0
+usr_bc66e1029d,industry,2026-03-17,2026-03-17,2026-06-21,Quantum Analytics Inc,India,university_partner,desktop,9,63,408,2,2,,,True,False,True,True,False,False,none,0,,,False,0
+usr_344d72d14f,researcher,2026-05-26,2026-05-26,2026-06-02,IISc Bangalore,UAE,google_ads,desktop,3,21,444,1,1,True,False,True,False,False,,,False,none,0,,,True,0
+usr_c5b50eb137,researcher,2026-04-24,2026-04-24,2026-05-25,BITS Pilani,India,direct,tablet,6,30,149,5,1,True,True,False,False,False,,,False,none,0,,,True,0
+usr_dfd2729734,researcher,2026-07-02,2026-07-02,2026-07-04,Jadavpur University,India,google_ads,mobile,3,12,105,0,0,False,False,True,True,False,,,False,none,0,,,False,0
+usr_d7e9cd1a32,researcher,2026-01-22,2026-01-22,2026-03-02,IIT Roorkee,Singapore,word_of_mouth,desktop,6,18,151,5,0,True,False,True,False,False,,,False,none,0,,,True,0
+usr_65823d8457,industry,2026-07-19,2026-07-19,2026-07-22,Helios Renewables,India,google_ads,desktop,12,72,315,11,0,,,True,False,True,False,False,False,none,0,,,False,0
+usr_f45d1a13f7,researcher,2026-04-03,2026-04-03,2026-05-19,NIT Trichy,India,industry_event,desktop,7,63,236,1,0,True,True,True,True,False,,,False,none,0,,,False,0
+usr_3ae75140f6,industry,2026-05-08,2026-05-08,2026-07-16,Quantum Analytics Inc,Germany,word_of_mouth,mobile,10,70,314,5,5,,,False,False,False,False,False,False,none,0,,,False,1
+usr_33c9c86b6a,industry,2026-04-20,2026-04-20,2026-05-08,GreenGrid Energy,Germany,direct,desktop,7,70,228,5,0,,,True,False,False,False,False,False,none,0,,,True,2
+usr_bb4f4068d4,industry,2026-01-22,2026-01-22,2026-06-25,Fusion Dynamics Corp,Singapore,direct,mobile,13,78,432,7,0,,,True,True,False,False,False,False,none,0,,,False,1
+usr_98684bb803,researcher,2026-07-14,2026-07-14,2026-07-22,IIT Madras,India,referral,mobile,12,72,155,3,3,True,True,False,False,True,,,False,none,0,,,False,0
+usr_a12759fb87,researcher,2026-07-09,2026-07-09,2026-07-12,IIT Hyderabad,India,linkedin,mobile,4,16,44,3,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_53edc96238,researcher,2026-05-09,2026-05-09,2026-05-17,IIT Hyderabad,USA,linkedin,mobile,1,3,232,5,2,True,True,False,False,False,,,False,none,0,,,False,1
+usr_2ec5306b63,industry,2026-06-13,2026-06-13,2026-07-21,Bharat Semiconductors,India,direct,mobile,9,108,246,4,2,,,False,False,False,False,False,False,none,0,,,False,0
+usr_d08ee3740c,researcher,2026-04-26,2026-04-26,2026-06-08,IIT Bombay,India,direct,desktop,2,18,268,2,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_729224c878,researcher,2026-02-06,2026-02-06,2026-03-25,IIT Hyderabad,USA,industry_event,mobile,4,32,120,2,0,True,False,False,True,False,,,True,researcher_basic,300,17,2026-02-23,False,0
+usr_95039d4e85,researcher,2026-03-15,2026-03-15,2026-03-27,Anna University,India,direct,mobile,10,40,177,3,0,True,False,False,False,False,,,False,none,0,,,True,0
+usr_8fb824a8d8,industry,2026-06-27,2026-06-27,2026-07-13,Skyline Robotics,Germany,direct,desktop,4,20,211,5,1,,,True,True,True,True,False,False,none,0,,,False,1
+usr_b701c1af3a,researcher,2026-03-16,2026-03-16,2026-05-14,IIT Bombay,India,google_ads,desktop,4,24,44,2,1,True,True,True,False,False,,,False,none,0,,,True,0
+usr_7d344b015a,researcher,2026-01-17,2026-01-17,2026-07-01,Anna University,India,organic_search,desktop,6,54,143,5,3,True,True,True,False,True,,,False,none,0,,,False,0
+usr_7176ada2a8,researcher,2026-07-20,2026-07-20,2026-07-24,NIT Trichy,Singapore,organic_search,desktop,13,52,56,1,1,True,False,False,False,True,,,False,none,0,,,False,1
+usr_a945a54a1f,researcher,2026-03-12,2026-03-12,2026-06-17,IIT Delhi,India,referral,mobile,3,15,196,3,2,True,False,True,True,False,,,False,none,0,,,True,1
+usr_17be4f6a55,researcher,2026-06-15,2026-06-15,2026-07-15,BITS Pilani,Singapore,email_campaign,desktop,4,16,267,5,1,True,True,False,True,False,,,False,none,0,,,False,0
+usr_eee48f0cee,researcher,2026-01-19,2026-01-19,2026-03-05,IIITD,Singapore,linkedin,mobile,1,4,137,0,0,False,True,True,False,False,,,False,none,0,,,True,0
+usr_3b38922d93,researcher,2026-03-04,2026-03-04,2026-05-15,IIT Delhi,India,email_campaign,desktop,1,5,222,3,0,True,False,False,True,False,,,False,none,0,,,True,0
+usr_c23b4a38f5,researcher,2026-02-17,2026-02-17,2026-05-21,IIT Madras,India,google_ads,mobile,5,20,135,5,1,True,True,True,False,False,,,False,none,0,,,True,0
+usr_1b9400428e,industry,2026-04-07,2026-04-07,2026-06-28,Helios Renewables,India,university_partner,mobile,10,110,492,10,3,,,True,True,False,True,False,False,none,0,,,False,0
+usr_c1c2578b9f,researcher,2026-02-23,2026-02-23,2026-05-22,IIT Roorkee,India,google_ads,mobile,3,21,20,3,0,True,False,False,True,False,,,True,researcher_basic,300,5,2026-02-28,False,0
+usr_1d5e87b4a3,researcher,2026-06-25,2026-06-25,2026-07-22,IISc Bangalore,India,organic_search,tablet,5,45,155,0,0,False,True,False,False,False,,,True,researcher_basic,300,10,2026-07-05,False,1
+usr_dd7aec14c0,industry,2026-07-20,2026-07-20,2026-07-23,DeepCore AI,India,organic_search,desktop,2,10,281,13,1,,,False,True,True,False,False,True,industry_premium,20000,58,2026-09-16,False,0
+usr_a48d94401d,researcher,2026-06-27,2026-06-27,2026-07-07,IIT Delhi,India,university_partner,mobile,6,48,92,1,0,True,True,True,True,False,,,False,none,0,,,False,0
+usr_fa32ccf300,researcher,2026-04-19,2026-04-19,2026-05-03,IIITD,India,organic_search,desktop,11,66,95,0,0,False,True,False,False,False,,,False,none,0,,,False,1
+usr_997abff77c,researcher,2026-06-22,2026-06-22,2026-07-03,Jadavpur University,India,email_campaign,mobile,10,70,168,2,1,True,True,False,True,True,,,False,none,0,,,False,0
+usr_1133ccf5b5,researcher,2026-02-14,2026-02-14,2026-03-26,IIT Bombay,USA,referral,desktop,6,30,206,3,2,True,True,True,True,False,,,False,none,0,,,True,0
+usr_3f614e66e6,researcher,2026-05-12,2026-05-12,2026-07-06,IIT Delhi,India,university_partner,desktop,8,48,158,0,0,False,False,True,False,False,,,False,none,0,,,False,1
+usr_5030911b42,industry,2026-06-15,2026-06-15,2026-07-09,Skyline Robotics,India,university_partner,desktop,6,54,291,12,4,,,True,True,False,False,False,False,none,0,,,False,0
+usr_8064e45d7c,industry,2026-05-13,2026-05-13,2026-06-23,IronClad Defense Systems,UAE,google_ads,desktop,13,130,437,14,4,,,True,False,False,True,False,False,none,0,,,False,0
+usr_ce35d5d396,researcher,2026-07-17,2026-07-17,2026-07-21,IIT Kanpur,India,word_of_mouth,desktop,2,14,43,1,0,True,False,True,False,False,,,False,none,0,,,False,0
+usr_b5dd88efd0,researcher,2026-03-22,2026-03-22,2026-06-25,IIT Roorkee,India,linkedin,mobile,4,28,135,2,2,True,False,False,True,False,,,False,none,0,,,False,0
+usr_cb50dfe3e1,industry,2026-04-03,2026-04-03,2026-05-23,Nova Materials Pvt Ltd,India,organic_search,desktop,8,40,301,12,3,,,True,False,False,True,False,False,none,0,,,True,0
+usr_bd319925b6,industry,2026-03-19,2026-03-19,2026-05-03,Fusion Dynamics Corp,Singapore,email_campaign,desktop,9,45,92,7,0,,,False,False,True,False,False,False,none,0,,,True,0
+usr_358f2b91a6,researcher,2026-04-04,2026-04-04,2026-06-22,VIT Vellore,Germany,university_partner,mobile,4,28,221,5,0,True,True,False,True,False,,,False,none,0,,,False,0
+usr_5a54e6a997,researcher,2026-02-07,2026-02-07,2026-04-23,VIT Vellore,UAE,referral,mobile,6,54,156,5,3,True,True,False,False,False,,,False,none,0,,,False,0
+usr_203a0ea711,researcher,2026-07-12,2026-07-12,2026-07-20,IIT Delhi,USA,direct,desktop,12,48,324,0,0,False,True,True,False,False,,,False,none,0,,,False,0
+usr_827841bc05,researcher,2026-01-12,2026-01-12,2026-03-15,Jadavpur University,India,referral,mobile,2,8,195,4,1,True,False,True,False,False,,,False,none,0,,,True,0
+usr_f5e19ea571,researcher,2026-03-30,2026-03-30,2026-06-20,IISc Bangalore,India,email_campaign,mobile,6,24,135,2,1,True,True,True,False,False,,,False,none,0,,,True,0
+usr_ac6c302a9b,researcher,2026-04-14,2026-04-14,2026-05-22,NIT Trichy,Germany,direct,desktop,8,48,247,1,1,True,False,False,False,False,,,False,none,0,,,True,0
+usr_f94604360f,researcher,2026-01-09,2026-01-09,2026-01-14,Delhi University,UAE,organic_search,desktop,5,25,222,1,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_0ba4459ab1,industry,2026-02-09,2026-02-09,2026-07-19,MedTech Solutions,India,organic_search,mobile,7,77,60,10,0,,,True,True,True,True,False,False,none,0,,,False,0
+usr_bee44a2c78,researcher,2026-04-19,2026-04-19,2026-05-04,IIT Madras,UAE,email_campaign,mobile,9,72,211,5,5,True,True,False,False,False,,,True,researcher_basic,300,11,2026-04-30,False,0
+usr_c7fe23a9f4,researcher,2026-02-10,2026-02-10,2026-07-14,NIT Trichy,India,email_campaign,desktop,13,91,101,0,0,False,True,True,False,False,,,False,none,0,,,False,0
+usr_366fbd719a,researcher,2026-03-03,2026-03-03,2026-06-12,IIT Kanpur,India,google_ads,mobile,4,20,113,0,0,False,False,True,False,False,,,False,none,0,,,True,1
+usr_cb75b772f9,industry,2026-05-26,2026-05-26,2026-07-24,Skyline Robotics,India,word_of_mouth,desktop,10,60,562,10,1,,,True,False,True,True,False,False,none,0,,,False,0
+usr_350d0bef00,researcher,2026-01-05,2026-01-05,2026-04-18,BITS Pilani,India,university_partner,mobile,10,90,205,2,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_93dc3bafbf,industry,2026-07-06,2026-07-06,2026-07-11,Vertex Manufacturing,India,university_partner,desktop,9,45,379,10,3,,,True,True,False,True,False,False,none,0,,,False,2
+usr_d8548810ef,researcher,2026-04-27,2026-04-27,2026-05-11,IIT Roorkee,India,university_partner,mobile,10,40,216,5,4,True,True,True,False,False,,,False,none,0,,,True,0
+usr_4720aa8202,researcher,2026-05-25,2026-05-25,2026-07-08,Jadavpur University,India,linkedin,desktop,3,9,340,5,3,True,False,False,True,False,,,True,researcher_basic,300,1,2026-05-26,False,0
+usr_04111f1503,researcher,2026-02-15,2026-02-15,2026-07-23,BITS Pilani,India,email_campaign,desktop,12,84,218,1,1,True,True,False,False,False,,,False,none,0,,,False,1
+usr_9b07d89f68,industry,2026-04-06,2026-04-06,2026-06-24,Quantum Analytics Inc,India,organic_search,desktop,19,76,155,15,4,,,False,True,True,False,False,False,none,0,,,False,3
+usr_1a17f08bf0,researcher,2026-01-08,2026-01-08,2026-02-26,BITS Pilani,India,industry_event,mobile,10,60,20,0,0,False,False,False,False,False,,,False,none,0,,,True,0
+usr_2bdb8a1578,researcher,2026-03-10,2026-03-10,2026-03-29,BITS Pilani,India,referral,desktop,2,8,96,3,0,True,True,False,False,False,,,False,none,0,,,True,1
+usr_f7774a4e62,researcher,2026-04-09,2026-04-09,2026-06-10,IIT Bombay,Germany,industry_event,mobile,1,3,50,5,3,True,False,False,False,True,,,False,none,0,,,False,0
+usr_e61d453c36,industry,2026-04-21,2026-04-21,2026-07-21,GreenGrid Energy,India,linkedin,desktop,6,30,353,14,2,,,False,True,True,False,True,False,none,0,,,False,0
+usr_c2631fd1e7,researcher,2026-01-25,2026-01-25,2026-04-09,Delhi University,India,referral,desktop,8,72,109,0,0,False,False,False,False,True,,,True,researcher_basic,300,17,2026-02-11,False,0
+usr_29b0233bad,researcher,2026-07-16,2026-07-16,2026-07-23,Delhi University,India,email_campaign,desktop,9,72,102,1,1,True,True,True,False,True,,,True,researcher_basic,300,17,2026-08-02,False,1
+usr_d66e1528b4,industry,2026-03-15,2026-03-15,2026-05-15,Vertex Manufacturing,India,direct,mobile,16,160,241,6,5,,,True,True,False,False,False,True,industry_premium,20000,33,2026-04-17,False,0
+usr_40abd82b37,researcher,2026-07-19,2026-07-19,2026-07-23,Jadavpur University,India,industry_event,desktop,8,32,154,5,4,True,True,True,False,False,,,False,none,0,,,False,0
+usr_19cd377430,researcher,2026-03-13,2026-03-13,2026-04-22,Jadavpur University,India,email_campaign,desktop,3,12,213,0,0,False,True,True,True,False,,,False,none,0,,,False,1
+usr_93d2d5053b,researcher,2026-03-09,2026-03-09,2026-06-19,IIT Delhi,India,referral,tablet,9,72,218,0,0,False,True,True,False,False,,,False,none,0,,,True,0
+usr_7f3883abf9,researcher,2026-01-22,2026-01-22,2026-02-27,IIITD,India,linkedin,mobile,4,16,271,1,1,True,True,True,False,False,,,True,researcher_basic,300,4,2026-01-26,False,0
+usr_dc0de40312,industry,2026-06-08,2026-06-08,2026-06-17,Quantum Analytics Inc,UAE,university_partner,desktop,2,18,472,12,0,,,True,False,True,False,False,False,none,0,,,False,0
+usr_83a6a11b21,researcher,2026-06-05,2026-06-05,2026-06-15,NIT Trichy,USA,word_of_mouth,desktop,8,32,216,3,1,True,True,False,False,False,,,True,researcher_basic,300,13,2026-06-18,False,0
+usr_f1d5799289,industry,2026-06-29,2026-06-29,2026-07-03,AgroFuture Labs,Singapore,word_of_mouth,desktop,1,5,408,15,0,,,True,False,False,True,False,False,none,0,,,False,1
+usr_3ada5c0561,researcher,2026-03-09,2026-03-09,2026-06-29,Delhi University,UAE,referral,desktop,1,7,190,5,5,True,True,True,False,False,,,False,none,0,,,False,0
+usr_8a1bb562d4,researcher,2026-01-06,2026-01-06,2026-05-08,VIT Vellore,India,email_campaign,mobile,3,27,288,1,0,True,False,False,False,False,,,False,none,0,,,False,2
+usr_6d5f1f3a7f,researcher,2026-04-11,2026-04-11,2026-06-08,Jadavpur University,India,industry_event,desktop,6,18,261,1,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_f9d666717e,researcher,2026-05-11,2026-05-11,2026-07-14,Jadavpur University,India,direct,desktop,8,40,193,5,2,True,True,True,False,True,,,True,researcher_basic,300,20,2026-05-31,False,0
+usr_b515102036,researcher,2026-02-07,2026-02-07,2026-02-10,Jadavpur University,UAE,organic_search,desktop,5,30,138,3,3,True,True,False,True,False,,,False,none,0,,,False,1
+usr_562c5827b9,researcher,2026-04-20,2026-04-20,2026-05-27,IISc Bangalore,India,email_campaign,desktop,2,6,107,3,3,True,True,True,True,False,,,False,none,0,,,False,0
+usr_aa5e70a387,industry,2026-05-22,2026-05-22,2026-05-26,Skyline Robotics,India,industry_event,desktop,8,32,626,2,1,,,True,False,False,True,False,False,none,0,,,False,3
+usr_906f11e534,researcher,2026-02-28,2026-02-28,2026-05-16,IIT Hyderabad,India,email_campaign,mobile,1,5,238,4,3,True,True,True,False,False,,,False,none,0,,,False,0
+usr_1b93caf007,researcher,2026-03-10,2026-03-10,2026-06-25,NIT Trichy,Singapore,direct,mobile,10,80,264,3,3,True,False,True,True,True,,,True,researcher_basic,300,8,2026-03-18,False,1
+usr_031a6b1bc8,researcher,2026-03-23,2026-03-23,2026-05-07,IIT Madras,India,university_partner,mobile,10,50,224,0,0,False,False,False,False,False,,,False,none,0,,,True,0
+usr_04de3e4fd4,researcher,2026-03-15,2026-03-15,2026-04-26,IIT Madras,India,referral,desktop,4,16,119,5,3,True,True,True,False,False,,,False,none,0,,,False,0
+usr_8ef489fd16,researcher,2026-02-10,2026-02-10,2026-05-28,IIT Madras,India,linkedin,desktop,2,8,198,2,1,True,False,False,False,False,,,False,none,0,,,True,0
+usr_be3767f373,researcher,2026-01-05,2026-01-05,2026-06-26,BITS Pilani,Singapore,word_of_mouth,mobile,8,56,264,4,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_ffba511721,industry,2026-03-17,2026-03-17,2026-04-03,Fusion Dynamics Corp,India,direct,mobile,5,25,248,9,5,,,True,False,False,True,True,False,none,0,,,False,0
+usr_30446008dc,researcher,2026-05-22,2026-05-22,2026-07-09,Anna University,Germany,linkedin,desktop,7,49,72,0,0,False,True,True,False,False,,,False,none,0,,,False,0
+usr_500695b649,researcher,2026-03-01,2026-03-01,2026-03-26,IIT Bombay,India,university_partner,mobile,4,36,120,4,2,True,False,False,False,False,,,False,none,0,,,False,1
+usr_d5d97110b8,industry,2026-05-29,2026-05-29,2026-06-25,MedTech Solutions,India,direct,desktop,1,7,213,10,3,,,True,True,False,True,True,False,none,0,,,False,1
+usr_e32432eefc,researcher,2026-06-12,2026-06-12,2026-06-25,IIT Bombay,India,organic_search,mobile,1,9,366,4,4,True,False,False,False,True,,,False,none,0,,,False,0
+usr_e9154d9f89,researcher,2026-07-17,2026-07-17,2026-07-22,BITS Pilani,USA,email_campaign,desktop,2,18,20,2,1,True,True,True,False,False,,,False,none,0,,,False,1
+usr_6282f8f6f6,industry,2026-01-04,2026-01-04,2026-05-06,MedTech Solutions,India,organic_search,desktop,8,64,364,9,4,,,False,True,True,False,True,True,industry_standard,15000,37,2026-02-10,False,3
+usr_df78565441,researcher,2026-05-25,2026-05-25,2026-07-22,BITS Pilani,India,industry_event,desktop,6,48,79,4,1,True,True,True,False,False,,,False,none,0,,,False,1
+usr_b038410f57,industry,2026-02-19,2026-02-19,2026-03-28,MedTech Solutions,India,email_campaign,desktop,17,204,152,15,3,,,True,True,False,True,False,False,none,0,,,True,0
+usr_5d2ce9b0f6,industry,2026-03-13,2026-03-13,2026-04-09,IronClad Defense Systems,India,university_partner,desktop,12,72,146,13,2,,,False,False,False,False,False,False,none,0,,,False,0
+usr_57a09cc468,researcher,2026-07-16,2026-07-16,2026-07-22,IIT Delhi,India,email_campaign,desktop,9,81,176,0,0,False,True,True,False,False,,,True,researcher_basic,300,12,2026-07-28,False,0
+usr_54116a356f,researcher,2026-02-21,2026-02-21,2026-04-26,IIITD,India,email_campaign,desktop,1,7,225,4,3,True,True,True,True,False,,,False,none,0,,,False,0
+usr_b0b448b5ac,industry,2026-07-15,2026-07-15,2026-07-18,MedTech Solutions,India,referral,desktop,20,240,404,7,5,,,True,True,True,False,False,False,none,0,,,False,0
+usr_4f8c6bbd67,researcher,2026-02-23,2026-02-23,2026-04-11,IIT Bombay,India,referral,mobile,9,36,208,0,0,False,False,False,True,False,,,True,researcher_basic,300,14,2026-03-09,False,0
+usr_f91501c902,industry,2026-03-04,2026-03-04,2026-07-20,GreenGrid Energy,India,linkedin,mobile,17,119,201,4,3,,,False,False,False,True,False,False,none,0,,,False,0
+usr_c3f9c61109,researcher,2026-03-17,2026-03-17,2026-07-01,BITS Pilani,India,word_of_mouth,tablet,8,40,330,4,2,True,False,False,True,False,,,False,none,0,,,False,0
+usr_49f1457069,researcher,2026-04-23,2026-04-23,2026-05-07,IIT Bombay,UAE,referral,mobile,7,63,58,0,0,False,False,True,True,False,,,False,none,0,,,False,0
+usr_cf7a707e19,industry,2026-01-06,2026-01-06,2026-04-25,Quantum Analytics Inc,India,industry_event,desktop,9,54,374,10,1,,,True,True,False,True,False,False,none,0,,,True,1
+usr_d5956888fb,researcher,2026-06-08,2026-06-08,2026-06-15,IIT Kanpur,India,direct,desktop,2,6,70,1,0,True,True,True,True,False,,,False,none,0,,,True,0
+usr_70db49846e,researcher,2026-03-03,2026-03-03,2026-06-17,BITS Pilani,India,organic_search,desktop,5,25,147,4,3,True,True,True,False,False,,,True,researcher_basic,300,13,2026-03-16,False,0
+usr_9ddef275d9,researcher,2026-06-20,2026-06-20,2026-06-28,BITS Pilani,Singapore,google_ads,desktop,7,21,296,1,1,True,False,True,True,False,,,False,none,0,,,False,1
+usr_cc6dc466f5,researcher,2026-07-02,2026-07-02,2026-07-13,IIT Hyderabad,India,email_campaign,mobile,8,72,236,1,0,True,False,False,False,False,,,False,none,0,,,False,0
+usr_c7ee44e1d9,researcher,2026-01-19,2026-01-19,2026-05-19,IIT Bombay,India,university_partner,desktop,3,27,174,1,0,True,True,True,False,False,,,False,none,0,,,True,1
+usr_39b14e2351,industry,2026-01-04,2026-01-04,2026-01-30,MedTech Solutions,USA,direct,mobile,7,28,338,4,4,,,False,False,True,True,True,True,industry_standard,15000,57,2026-03-02,False,0
+usr_db2ebdf60e,industry,2026-03-19,2026-03-19,2026-07-10,IronClad Defense Systems,USA,linkedin,desktop,14,84,238,15,4,,,True,False,False,True,True,False,none,0,,,False,0
+usr_3f78a39c2a,industry,2026-06-08,2026-06-08,2026-06-12,Nova Materials Pvt Ltd,Singapore,direct,desktop,11,132,322,13,2,,,False,True,False,True,True,False,none,0,,,False,0
+usr_5f9a4c8861,researcher,2026-06-13,2026-06-13,2026-07-01,IIITD,India,linkedin,mobile,6,24,137,5,1,True,False,False,False,False,,,False,none,0,,,False,0
+usr_c33007a700,researcher,2026-05-01,2026-05-01,2026-05-09,IIT Roorkee,UAE,referral,mobile,7,35,226,0,0,False,True,True,False,False,,,False,none,0,,,True,0
+usr_06fd1c82d0,researcher,2026-02-07,2026-02-07,2026-05-01,Independent Researcher,India,word_of_mouth,tablet,6,36,45,1,1,True,True,False,False,True,,,False,none,0,,,True,0
+usr_ff6afc1462,researcher,2026-07-02,2026-07-02,2026-07-04,NIT Trichy,India,linkedin,mobile,5,20,225,5,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_fb0bef98a7,researcher,2026-06-07,2026-06-07,2026-07-14,Independent Researcher,India,university_partner,mobile,2,10,101,4,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_791edab49c,researcher,2026-06-29,2026-06-29,2026-07-06,VIT Vellore,India,word_of_mouth,desktop,5,30,168,1,0,True,False,True,False,True,,,False,none,0,,,False,0
+usr_90914c97fa,researcher,2026-03-12,2026-03-12,2026-06-02,VIT Vellore,India,university_partner,desktop,4,16,116,3,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_706db2abdd,industry,2026-01-02,2026-01-02,2026-07-20,Fusion Dynamics Corp,USA,direct,desktop,1,9,200,15,1,,,True,False,False,False,False,False,none,0,,,False,2
+usr_54ea2fb923,researcher,2026-02-21,2026-02-21,2026-05-12,Anna University,India,word_of_mouth,mobile,1,7,153,1,1,True,True,False,True,False,,,False,none,0,,,False,0
+usr_110823c87b,researcher,2026-05-31,2026-05-31,2026-06-05,IIT Bombay,USA,word_of_mouth,mobile,7,63,278,1,1,True,True,False,False,False,,,False,none,0,,,True,0
+usr_3edde62261,researcher,2026-01-24,2026-01-24,2026-03-30,Jadavpur University,India,google_ads,desktop,6,36,334,2,0,True,False,True,False,False,,,False,none,0,,,False,0
+usr_deea8ca72e,researcher,2026-02-04,2026-02-04,2026-03-16,IIT Delhi,USA,word_of_mouth,desktop,5,30,57,2,2,True,False,False,False,False,,,False,none,0,,,False,0
+usr_36c1f1a446,industry,2026-02-12,2026-02-12,2026-05-20,Lumen Photonics,India,direct,mobile,1,4,541,3,3,,,True,True,False,True,False,False,none,0,,,True,0
+usr_5dc1522556,industry,2026-05-18,2026-05-18,2026-05-31,DeepCore AI,India,google_ads,desktop,6,36,192,5,2,,,True,True,False,False,True,True,industry_premium,20000,33,2026-06-20,False,2
+usr_8572a62268,researcher,2026-02-26,2026-02-26,2026-04-29,IIT Madras,India,linkedin,mobile,4,28,105,3,2,True,True,False,False,False,,,False,none,0,,,True,2
+usr_b46eaa52b6,researcher,2026-01-15,2026-01-15,2026-02-04,IIT Kanpur,India,referral,desktop,7,63,194,5,0,True,True,False,True,False,,,False,none,0,,,True,0
+usr_dca92ab196,researcher,2026-06-23,2026-06-23,2026-07-19,IIT Bombay,USA,google_ads,desktop,1,9,123,4,3,True,True,True,False,False,,,False,none,0,,,False,0
+usr_fd01bb1bae,researcher,2026-05-01,2026-05-01,2026-07-05,IIT Bombay,India,referral,desktop,2,18,220,1,1,True,False,True,True,False,,,False,none,0,,,False,2
+usr_16befb1528,researcher,2026-06-27,2026-06-27,2026-07-02,Jadavpur University,India,word_of_mouth,desktop,1,6,113,3,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_3af937397e,industry,2026-01-15,2026-01-15,2026-04-01,Bharat Semiconductors,India,university_partner,desktop,6,42,307,11,0,,,False,True,False,False,False,False,none,0,,,False,1
+usr_42f2b69ccc,researcher,2026-03-20,2026-03-20,2026-06-01,Delhi University,UAE,google_ads,desktop,8,64,223,0,0,False,False,False,False,False,,,False,none,0,,,True,0
+usr_905faa623c,researcher,2026-06-26,2026-06-26,2026-07-02,IIT Bombay,India,organic_search,mobile,5,35,107,0,0,False,True,True,True,True,,,False,none,0,,,False,0
+usr_8b8777bb76,industry,2026-04-09,2026-04-09,2026-07-09,Helios Renewables,UAE,industry_event,mobile,12,84,292,10,5,,,False,True,False,False,False,False,none,0,,,False,2
+usr_fdd6705f9b,industry,2026-03-31,2026-03-31,2026-05-23,Lumen Photonics,India,organic_search,desktop,7,28,110,6,3,,,False,False,True,False,False,False,none,0,,,True,1
+usr_190c8fc9c7,industry,2026-05-06,2026-05-06,2026-06-17,Lumen Photonics,India,university_partner,desktop,19,95,214,12,4,,,True,True,False,False,True,False,none,0,,,False,0
+usr_7ee18f8cc3,researcher,2026-02-24,2026-02-24,2026-06-26,IIT Bombay,India,organic_search,desktop,6,42,213,3,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_4e405001f6,researcher,2026-07-21,2026-07-21,2026-07-22,IIT Roorkee,India,direct,desktop,1,9,271,4,0,True,True,False,False,False,,,False,none,0,,,False,2
+usr_fb21f82c61,researcher,2026-06-02,2026-06-02,2026-06-19,IIITD,India,industry_event,desktop,10,90,171,2,2,True,False,True,True,False,,,False,none,0,,,True,0
+usr_4b8dee0146,industry,2026-01-18,2026-01-18,2026-02-02,Lumen Photonics,UAE,word_of_mouth,desktop,6,60,291,8,1,,,True,False,False,True,False,False,none,0,,,True,0
+usr_8395d41dd2,researcher,2026-06-13,2026-06-13,2026-06-15,IIT Kanpur,India,email_campaign,desktop,5,40,243,1,0,True,False,True,False,True,,,False,none,0,,,False,0
+usr_1057c7fb31,industry,2026-02-13,2026-02-13,2026-05-19,Lumen Photonics,India,linkedin,mobile,8,48,223,13,1,,,True,True,True,False,True,False,none,0,,,True,0
+usr_220877a01c,industry,2026-02-07,2026-02-07,2026-04-29,Skyline Robotics,UAE,university_partner,desktop,12,96,126,9,5,,,True,True,False,False,True,False,none,0,,,True,0
+usr_7b2eb8a5bc,researcher,2026-03-12,2026-03-12,2026-05-24,IISc Bangalore,India,linkedin,desktop,1,6,178,2,2,True,False,True,True,True,,,False,none,0,,,False,0
+usr_7f757ebbd1,researcher,2026-05-08,2026-05-08,2026-06-20,IIT Madras,UAE,linkedin,desktop,9,45,219,3,3,True,False,True,False,False,,,True,researcher_basic,300,7,2026-05-15,False,0
+usr_98c90e012a,researcher,2026-07-20,2026-07-20,2026-07-24,Independent Researcher,India,organic_search,desktop,1,6,207,0,0,False,False,False,False,False,,,False,none,0,,,False,0
+usr_dd62bcee3d,researcher,2026-01-10,2026-01-10,2026-03-18,Anna University,India,email_campaign,desktop,9,72,110,3,1,True,True,True,False,False,,,False,none,0,,,True,0
+usr_f563b7c5a0,industry,2026-04-19,2026-04-19,2026-05-21,Bharat Semiconductors,India,linkedin,mobile,1,9,337,9,5,,,True,False,False,False,True,False,none,0,,,True,1
+usr_e8a73eee9e,researcher,2026-01-11,2026-01-11,2026-07-07,IIT Bombay,UAE,email_campaign,mobile,5,45,131,1,0,True,True,True,False,False,,,False,none,0,,,False,0
+usr_3e18754166,researcher,2026-02-20,2026-02-20,2026-07-24,Independent Researcher,Germany,direct,mobile,6,24,48,0,0,False,True,True,False,False,,,False,none,0,,,False,0
+usr_85169d3f42,researcher,2026-03-14,2026-03-14,2026-05-09,BITS Pilani,India,referral,desktop,5,35,99,2,1,True,True,True,True,True,,,False,none,0,,,False,0
+usr_f519111cce,industry,2026-05-20,2026-05-20,2026-07-19,Helios Renewables,India,linkedin,desktop,7,77,472,15,3,,,True,True,False,False,False,False,none,0,,,False,0
+usr_ad5628372d,researcher,2026-04-04,2026-04-04,2026-05-05,IIT Delhi,USA,linkedin,desktop,4,28,50,3,2,True,True,False,False,True,,,False,none,0,,,True,1
+usr_62f910c6c0,researcher,2026-07-14,2026-07-14,2026-07-14,IIT Delhi,India,industry_event,tablet,4,20,132,0,0,False,False,True,False,False,,,False,none,0,,,False,0
+usr_8dcb33a8b1,researcher,2026-01-03,2026-01-03,2026-04-01,IIT Roorkee,Singapore,google_ads,desktop,10,40,172,3,2,True,True,True,False,True,,,True,researcher_basic,300,5,2026-01-08,False,0
+usr_295a50c0d2,researcher,2026-03-13,2026-03-13,2026-04-28,Independent Researcher,India,industry_event,mobile,12,72,20,1,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_2f17ff79e8,researcher,2026-05-08,2026-05-08,2026-07-05,NIT Trichy,Singapore,google_ads,mobile,11,77,378,0,0,False,True,False,False,False,,,False,none,0,,,False,0
+usr_30542d6f44,researcher,2026-01-20,2026-01-20,2026-07-25,BITS Pilani,Singapore,direct,desktop,10,60,107,0,0,False,True,True,True,True,,,True,researcher_basic,300,10,2026-01-30,False,0
+usr_a69f96e8eb,industry,2026-01-28,2026-01-28,2026-06-29,Fusion Dynamics Corp,India,university_partner,mobile,13,117,160,13,1,,,False,True,False,False,False,False,none,0,,,False,1
+usr_4c31b549ce,industry,2026-01-26,2026-01-26,2026-05-22,Fusion Dynamics Corp,USA,industry_event,desktop,1,6,431,5,2,,,True,True,False,False,False,False,none,0,,,False,0
+usr_6e82766b9c,researcher,2026-07-23,2026-07-23,2026-07-23,BITS Pilani,India,word_of_mouth,desktop,8,64,217,5,5,True,True,False,False,False,,,False,none,0,,,False,0
+usr_0461a3ae1f,researcher,2026-03-06,2026-03-06,2026-03-14,IIT Roorkee,Singapore,google_ads,mobile,4,28,159,1,0,True,False,False,False,False,,,False,none,0,,,True,0
+usr_1e6e8513d2,researcher,2026-04-05,2026-04-05,2026-06-08,IIT Roorkee,India,email_campaign,mobile,1,9,327,2,1,True,True,True,False,False,,,False,none,0,,,True,0
+usr_fe7132ee1f,researcher,2026-02-04,2026-02-04,2026-04-19,BITS Pilani,India,industry_event,mobile,1,6,149,0,0,False,True,True,False,False,,,False,none,0,,,True,0
+usr_c978c22ad9,industry,2026-04-05,2026-04-05,2026-07-14,NextGen Pharma,India,linkedin,mobile,7,77,187,8,4,,,True,False,False,False,True,False,none,0,,,False,0
+usr_b767cad776,industry,2026-07-12,2026-07-12,2026-07-23,MedTech Solutions,Singapore,google_ads,mobile,24,96,533,6,5,,,True,False,False,False,True,False,none,0,,,False,1
+usr_93e909c2d2,researcher,2026-03-03,2026-03-03,2026-04-13,Jadavpur University,India,industry_event,mobile,1,3,144,2,1,True,False,True,False,False,,,False,none,0,,,True,2
+usr_8f38b160aa,researcher,2026-05-27,2026-05-27,2026-06-13,Delhi University,India,industry_event,mobile,10,80,192,4,4,True,False,False,True,False,,,True,researcher_basic,300,16,2026-06-12,False,0
+usr_30b3403eec,industry,2026-02-09,2026-02-09,2026-04-24,MedTech Solutions,India,industry_event,desktop,13,65,401,10,3,,,True,False,False,False,False,False,none,0,,,True,0
+usr_af8d299317,researcher,2026-05-27,2026-05-27,2026-06-18,Jadavpur University,India,email_campaign,mobile,4,32,46,5,1,True,False,False,False,False,,,False,none,0,,,True,0
+usr_99fcea1fb3,researcher,2026-03-08,2026-03-08,2026-05-17,Jadavpur University,India,linkedin,desktop,3,18,186,2,0,True,True,True,False,False,,,False,none,0,,,False,0
+usr_266d1cd09c,industry,2026-07-15,2026-07-15,2026-07-24,IronClad Defense Systems,India,university_partner,mobile,9,36,323,11,4,,,False,True,False,False,False,False,none,0,,,False,0
+usr_324d1d29e0,researcher,2026-07-24,2026-07-24,2026-07-25,VIT Vellore,India,referral,mobile,4,12,281,3,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_1354a35e87,researcher,2026-06-11,2026-06-11,2026-07-06,IIT Roorkee,India,email_campaign,desktop,10,30,190,4,1,True,False,False,False,False,,,False,none,0,,,False,0
+usr_90e69122d2,industry,2026-04-20,2026-04-20,2026-05-31,Prime Biotech,India,google_ads,desktop,8,48,368,6,4,,,True,False,False,False,False,False,none,0,,,True,0
+usr_afbb1f11e1,researcher,2026-03-23,2026-03-23,2026-06-26,IIT Kanpur,India,email_campaign,desktop,1,9,20,5,1,True,True,False,False,True,,,False,none,0,,,False,0
+usr_ce3e66d39f,industry,2026-03-21,2026-03-21,2026-04-16,TerraSoil Agritech,India,organic_search,desktop,8,56,169,10,2,,,True,True,False,True,False,False,none,0,,,False,0
+usr_426ebe77a9,researcher,2026-06-24,2026-06-24,2026-07-14,NIT Trichy,Germany,linkedin,desktop,6,54,243,1,1,True,False,True,True,False,,,True,researcher_basic,300,21,2026-07-15,False,0
+usr_78c8310850,researcher,2026-01-31,2026-01-31,2026-07-22,IIT Kanpur,India,organic_search,desktop,9,27,326,0,0,False,True,True,True,False,,,False,none,0,,,False,0
+usr_a48b95d366,researcher,2026-03-17,2026-03-17,2026-04-23,NIT Trichy,Germany,industry_event,desktop,2,18,20,0,0,False,True,False,True,False,,,False,none,0,,,True,1
+usr_e6c297ceb2,researcher,2026-02-16,2026-02-16,2026-03-02,IIT Madras,India,email_campaign,mobile,3,18,230,0,0,False,True,False,False,True,,,False,none,0,,,True,0
+usr_a7bf7985c6,researcher,2026-07-08,2026-07-08,2026-07-20,VIT Vellore,India,organic_search,tablet,1,3,278,2,2,True,True,True,True,False,,,False,none,0,,,False,0
+usr_2b692fccbe,industry,2026-06-28,2026-06-28,2026-07-12,Nova Materials Pvt Ltd,India,industry_event,desktop,7,77,328,2,0,,,True,False,False,False,True,False,none,0,,,False,2
+usr_1c829332e1,industry,2026-04-13,2026-04-13,2026-06-23,NextGen Pharma,India,organic_search,desktop,8,64,301,7,4,,,True,True,False,False,True,False,none,0,,,False,3
+usr_66876a66ad,researcher,2026-04-08,2026-04-08,2026-05-02,VIT Vellore,Germany,university_partner,mobile,10,50,206,1,1,True,True,True,False,False,,,False,none,0,,,True,1
+usr_c9beb84276,industry,2026-02-22,2026-02-22,2026-05-18,GreenGrid Energy,USA,word_of_mouth,mobile,11,121,277,2,1,,,True,False,False,False,False,False,none,0,,,False,0
+usr_49c8009626,researcher,2026-07-21,2026-07-21,2026-07-25,IISc Bangalore,India,word_of_mouth,mobile,4,28,206,3,2,True,False,True,True,False,,,False,none,0,,,False,0
+usr_fc89d4ac34,researcher,2026-07-21,2026-07-21,2026-07-21,Anna University,India,referral,desktop,1,4,229,1,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_a2d0efe9ec,industry,2026-03-22,2026-03-22,2026-06-11,Lumen Photonics,Singapore,email_campaign,mobile,13,65,341,15,0,,,True,True,False,False,False,False,none,0,,,False,0
+usr_2f5e3735f9,researcher,2026-03-05,2026-03-05,2026-03-28,Delhi University,UAE,university_partner,desktop,2,6,31,2,2,True,True,True,True,False,,,False,none,0,,,False,0
+usr_4b2986ff01,researcher,2026-03-21,2026-03-21,2026-06-03,IIT Delhi,Germany,organic_search,desktop,10,60,129,1,1,True,False,True,False,False,,,False,none,0,,,False,0
+usr_3825f53af9,researcher,2026-06-23,2026-06-23,2026-07-08,VIT Vellore,India,google_ads,desktop,6,30,231,0,0,False,True,True,True,True,,,False,none,0,,,False,0
+usr_401d7407a6,researcher,2026-05-14,2026-05-14,2026-06-24,IIT Roorkee,USA,google_ads,mobile,3,24,166,1,1,True,False,False,True,True,,,False,none,0,,,False,0
+usr_407a58c412,industry,2026-02-05,2026-02-05,2026-05-28,Vertex Manufacturing,India,direct,desktop,1,5,126,10,2,,,True,True,False,True,True,True,industry_premium,20000,60,2026-04-06,False,2
+usr_4bc1346e49,researcher,2026-04-01,2026-04-01,2026-05-10,Anna University,Singapore,google_ads,desktop,17,85,173,1,1,True,True,False,False,False,,,False,none,0,,,True,0
+usr_34d1dff2d7,researcher,2026-02-12,2026-02-12,2026-06-17,Independent Researcher,India,organic_search,desktop,1,8,110,3,1,True,True,True,True,True,,,False,none,0,,,True,2
+usr_5ac3f4e05f,researcher,2026-03-16,2026-03-16,2026-05-28,IIT Madras,India,organic_search,mobile,13,104,277,3,1,True,True,True,False,False,,,True,researcher_basic,300,19,2026-04-04,False,0
+usr_138c1f4566,researcher,2026-05-26,2026-05-26,2026-06-08,BITS Pilani,USA,direct,mobile,4,28,168,2,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_2da79a2ec9,researcher,2026-03-04,2026-03-04,2026-05-04,IISc Bangalore,India,word_of_mouth,mobile,5,40,215,4,3,True,True,True,True,False,,,False,none,0,,,False,2
+usr_4f6d0502ee,researcher,2026-05-29,2026-05-29,2026-07-01,Jadavpur University,India,direct,mobile,3,12,20,0,0,False,True,False,True,False,,,False,none,0,,,False,0
+usr_9d25a8ef7e,researcher,2026-03-29,2026-03-29,2026-07-20,Jadavpur University,India,word_of_mouth,mobile,5,15,111,2,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_0228c3a0e3,industry,2026-03-12,2026-03-12,2026-04-29,AgroFuture Labs,USA,referral,desktop,1,5,210,2,1,,,True,True,False,False,True,False,none,0,,,True,1
+usr_679f3b45a2,researcher,2026-06-27,2026-06-27,2026-07-23,IISc Bangalore,India,university_partner,desktop,5,25,153,4,1,True,True,True,True,False,,,False,none,0,,,False,1
+usr_d2cbed2a9e,researcher,2026-03-14,2026-03-14,2026-05-17,Independent Researcher,Germany,direct,mobile,2,8,94,5,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_23ac1019bc,industry,2026-07-10,2026-07-10,2026-07-21,DeepCore AI,India,email_campaign,desktop,6,48,426,2,1,,,True,False,True,False,False,False,none,0,,,False,2
+usr_da00396557,researcher,2026-05-23,2026-05-23,2026-06-28,IIT Roorkee,India,referral,mobile,7,63,203,4,2,True,True,False,False,True,,,False,none,0,,,False,0
+usr_1b4d164c46,researcher,2026-01-29,2026-01-29,2026-07-08,IIT Kanpur,India,direct,desktop,7,21,89,1,0,True,True,True,True,False,,,False,none,0,,,False,0
+usr_82ff581e8c,industry,2026-04-14,2026-04-14,2026-05-05,Skyline Robotics,Germany,organic_search,mobile,12,84,136,5,2,,,True,True,False,False,True,False,none,0,,,True,0
+usr_320eee1d1a,researcher,2026-01-21,2026-01-21,2026-04-06,IIT Madras,India,organic_search,desktop,7,42,289,4,0,True,True,True,True,False,,,False,none,0,,,True,0
+usr_c80668078d,industry,2026-03-16,2026-03-16,2026-04-03,Skyline Robotics,USA,organic_search,desktop,8,88,60,10,2,,,True,False,False,True,False,False,none,0,,,True,0
+usr_e655ddefbf,researcher,2026-03-04,2026-03-04,2026-06-15,Jadavpur University,Singapore,google_ads,desktop,13,104,266,5,1,True,True,True,False,True,,,False,none,0,,,True,0
+usr_9a52aa3c98,industry,2026-02-05,2026-02-05,2026-06-30,Lumen Photonics,India,organic_search,mobile,12,132,205,15,0,,,True,True,False,False,True,True,industry_premium,20000,13,2026-02-18,False,0
+usr_abb8afca6f,researcher,2026-02-23,2026-02-23,2026-03-15,Independent Researcher,India,organic_search,desktop,3,9,33,5,4,True,True,True,True,True,,,True,researcher_basic,300,4,2026-02-27,False,0
+usr_7ba64bd07b,researcher,2026-07-16,2026-07-16,2026-07-19,Independent Researcher,Singapore,direct,desktop,12,96,267,5,4,True,True,True,True,False,,,False,none,0,,,False,0
+usr_df7e0a6992,researcher,2026-07-08,2026-07-08,2026-07-21,IIT Hyderabad,India,university_partner,desktop,8,40,150,5,5,True,True,True,False,False,,,False,none,0,,,False,0
+usr_18d6fddb64,researcher,2026-03-04,2026-03-04,2026-07-15,IIT Madras,UAE,word_of_mouth,mobile,5,25,129,4,0,True,True,True,False,False,,,False,none,0,,,False,0
+usr_7fd346ce45,researcher,2026-07-10,2026-07-10,2026-07-15,IIT Madras,India,organic_search,mobile,2,16,209,1,1,True,True,True,True,False,,,False,none,0,,,False,1
+usr_ab1928c40c,researcher,2026-01-05,2026-01-05,2026-07-08,Delhi University,USA,industry_event,mobile,1,4,20,5,3,True,True,True,False,False,,,False,none,0,,,False,0
+usr_a17684e64f,researcher,2026-01-23,2026-01-23,2026-06-19,Delhi University,India,referral,mobile,1,3,148,0,0,False,True,False,True,False,,,False,none,0,,,True,0
+usr_85a4b530c0,industry,2026-03-02,2026-03-02,2026-03-29,DeepCore AI,Germany,direct,desktop,7,35,297,12,3,,,True,True,False,False,False,False,none,0,,,True,0
+usr_d773c9bcaf,researcher,2026-06-06,2026-06-06,2026-06-17,Anna University,India,industry_event,desktop,4,32,230,1,0,True,True,False,False,True,,,False,none,0,,,True,0
+usr_d0ea608bf5,researcher,2026-03-27,2026-03-27,2026-05-21,Delhi University,Singapore,google_ads,desktop,8,56,55,1,0,True,True,False,False,False,,,False,none,0,,,True,0
+usr_8b236b9087,researcher,2026-02-17,2026-02-17,2026-06-25,IIT Roorkee,India,referral,desktop,10,90,130,3,2,True,True,True,False,True,,,True,researcher_basic,300,11,2026-02-28,False,0
+usr_1c3719c3c4,industry,2026-03-28,2026-03-28,2026-06-12,Fusion Dynamics Corp,UAE,google_ads,desktop,1,4,60,13,3,,,True,False,False,False,False,False,none,0,,,False,1
+usr_46b12d7f09,researcher,2026-04-10,2026-04-10,2026-07-12,NIT Trichy,India,university_partner,mobile,9,63,105,2,0,True,True,False,False,False,,,True,researcher_basic,300,18,2026-04-28,False,0
+usr_649d2572e0,industry,2026-05-08,2026-05-08,2026-06-11,NextGen Pharma,India,linkedin,desktop,16,128,320,12,0,,,True,True,False,True,False,False,none,0,,,False,0
+usr_16196a6525,industry,2026-02-10,2026-02-10,2026-04-10,GreenGrid Energy,India,industry_event,desktop,9,45,239,10,1,,,True,False,False,False,True,False,none,0,,,True,1
+usr_570df39628,industry,2026-06-04,2026-06-04,2026-07-23,IronClad Defense Systems,Germany,organic_search,mobile,16,144,243,5,2,,,True,True,False,False,True,False,none,0,,,False,2
+usr_28819015f2,researcher,2026-03-03,2026-03-03,2026-06-09,VIT Vellore,India,linkedin,desktop,6,18,308,5,3,True,False,False,False,True,,,False,none,0,,,False,0
+usr_3c96d3f423,researcher,2026-03-20,2026-03-20,2026-05-29,IIT Roorkee,India,industry_event,mobile,8,72,289,1,0,True,False,False,True,False,,,False,none,0,,,False,0
+usr_0e5df0dac0,researcher,2026-05-02,2026-05-02,2026-06-18,IIITD,India,industry_event,desktop,2,8,125,0,0,False,True,False,False,False,,,False,none,0,,,False,0
+usr_4904bfb054,researcher,2026-03-09,2026-03-09,2026-03-19,IISc Bangalore,India,email_campaign,mobile,9,45,151,5,4,True,True,True,False,True,,,False,none,0,,,True,2
+usr_a6656c637c,researcher,2026-05-26,2026-05-26,2026-06-16,IIT Madras,India,email_campaign,desktop,3,24,105,5,3,True,True,True,False,False,,,False,none,0,,,True,0
+usr_67f0aa9cf3,researcher,2026-07-04,2026-07-04,2026-07-07,IIT Hyderabad,Singapore,linkedin,mobile,4,36,142,4,0,True,True,False,False,True,,,False,none,0,,,False,0
+usr_7295f99190,researcher,2026-03-24,2026-03-24,2026-07-19,IIT Roorkee,India,direct,desktop,2,10,253,4,0,True,True,False,False,False,,,False,none,0,,,False,1
+usr_68dde0b6e4,researcher,2026-04-23,2026-04-23,2026-06-25,NIT Trichy,Germany,email_campaign,desktop,3,12,268,4,4,True,False,False,False,False,,,False,none,0,,,False,1
+usr_dd18ce30af,researcher,2026-02-08,2026-02-08,2026-02-26,NIT Trichy,Germany,email_campaign,desktop,2,10,207,3,2,True,True,True,False,True,,,True,researcher_basic,300,3,2026-02-11,False,0
+usr_4d88ba20e5,researcher,2026-03-14,2026-03-14,2026-04-15,Jadavpur University,USA,google_ads,mobile,3,9,170,5,2,True,False,True,False,False,,,False,none,0,,,True,0
+usr_2e205bcb0f,researcher,2026-01-31,2026-01-31,2026-07-18,IIT Roorkee,UAE,industry_event,tablet,11,88,124,5,5,True,True,True,False,True,,,True,researcher_basic,300,2,2026-02-02,False,0
+usr_0958d839e8,researcher,2026-06-01,2026-06-01,2026-07-02,Jadavpur University,India,industry_event,desktop,10,50,223,3,0,True,False,False,False,True,,,False,none,0,,,False,1
+usr_06770c7932,researcher,2026-01-30,2026-01-30,2026-03-18,Delhi University,India,word_of_mouth,tablet,1,3,157,4,1,True,True,True,False,False,,,False,none,0,,,False,1
+usr_72b5de5cf2,industry,2026-07-17,2026-07-17,2026-07-21,Nova Materials Pvt Ltd,India,direct,desktop,12,120,256,15,5,,,False,True,False,True,True,True,industry_premium,20000,45,2026-08-31,False,0
+usr_d5c537bf9b,researcher,2026-06-27,2026-06-27,2026-07-03,IIT Kanpur,Singapore,organic_search,desktop,9,36,226,4,1,True,False,True,True,False,,,False,none,0,,,False,2
+usr_aa112f2a7b,researcher,2026-01-28,2026-01-28,2026-02-07,VIT Vellore,India,direct,mobile,7,42,343,4,2,True,False,False,True,False,,,False,none,0,,,True,0
+usr_b3cd1c27a0,researcher,2026-04-27,2026-04-27,2026-07-20,IIT Hyderabad,India,direct,mobile,2,6,85,5,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_38e5d6c7b6,industry,2026-03-30,2026-03-30,2026-06-17,MedTech Solutions,India,organic_search,desktop,6,48,279,4,1,,,False,True,True,True,False,False,none,0,,,False,0
+usr_4a794f0a4b,researcher,2026-03-05,2026-03-05,2026-05-20,Anna University,India,direct,tablet,16,144,88,3,2,True,True,False,False,False,,,True,researcher_basic,300,18,2026-03-23,False,1
+usr_41770efa24,researcher,2026-02-12,2026-02-12,2026-06-06,IIT Bombay,India,google_ads,mobile,1,5,227,4,2,True,True,False,False,True,,,False,none,0,,,False,0
+usr_9f521a2311,industry,2026-04-21,2026-04-21,2026-06-02,Lumen Photonics,India,organic_search,desktop,4,16,341,11,2,,,True,False,True,False,False,False,none,0,,,True,3
+usr_31706a3960,industry,2026-06-18,2026-06-18,2026-07-11,Skyline Robotics,USA,university_partner,desktop,10,90,239,5,4,,,True,False,False,True,True,True,industry_premium,20000,45,2026-08-02,False,0
+usr_0c6369c595,industry,2026-07-02,2026-07-02,2026-07-02,Vertex Manufacturing,India,linkedin,desktop,10,60,233,11,3,,,True,False,False,False,True,False,none,0,,,False,0
+usr_d88ff174a3,industry,2026-04-18,2026-04-18,2026-06-21,GreenGrid Energy,India,word_of_mouth,mobile,12,72,383,15,3,,,True,False,False,True,True,False,none,0,,,False,0
+usr_df169f7127,researcher,2026-03-21,2026-03-21,2026-05-04,BITS Pilani,India,direct,mobile,6,48,225,2,1,True,True,False,True,False,,,False,none,0,,,True,0
+usr_b24af45e22,researcher,2026-01-14,2026-01-14,2026-05-04,IIT Madras,India,linkedin,mobile,5,30,314,4,4,True,True,True,False,True,,,False,none,0,,,True,1
+usr_c0adfebb1a,industry,2026-01-23,2026-01-23,2026-07-04,Lumen Photonics,USA,industry_event,desktop,10,60,191,4,3,,,True,True,False,False,True,True,industry_standard,15000,56,2026-03-20,False,1
+usr_eb967d0298,industry,2026-07-05,2026-07-05,2026-07-18,TerraSoil Agritech,India,referral,desktop,12,84,322,3,0,,,True,False,False,False,False,False,none,0,,,False,0
+usr_fb874b0110,researcher,2026-07-18,2026-07-18,2026-07-22,IIITD,Germany,direct,mobile,6,30,237,1,1,True,False,False,False,False,,,False,none,0,,,False,0
+usr_ef4c6ed20e,researcher,2026-03-20,2026-03-20,2026-06-24,Jadavpur University,India,referral,desktop,9,54,134,1,0,True,False,False,False,False,,,False,none,0,,,False,0
+usr_4c79c1e2c2,researcher,2026-05-21,2026-05-21,2026-05-26,Delhi University,India,google_ads,desktop,10,80,119,0,0,False,True,True,False,True,,,False,none,0,,,False,0
+usr_03b62dd6da,researcher,2026-02-18,2026-02-18,2026-07-03,IIT Bombay,India,email_campaign,desktop,6,24,306,4,3,True,True,False,False,False,,,False,none,0,,,False,0
+usr_ed549fb479,researcher,2026-01-30,2026-01-30,2026-02-14,IIT Roorkee,India,referral,mobile,2,12,200,5,5,True,True,False,True,False,,,False,none,0,,,False,0
+usr_b625981052,researcher,2026-06-17,2026-06-17,2026-06-27,IIT Kanpur,Germany,direct,desktop,12,60,176,1,1,True,True,True,True,False,,,False,none,0,,,False,1
+usr_31e0dc312b,researcher,2026-03-01,2026-03-01,2026-04-04,IIT Kanpur,India,word_of_mouth,desktop,7,21,197,3,0,True,True,True,False,False,,,False,none,0,,,False,0
+usr_d415521590,researcher,2026-06-21,2026-06-21,2026-06-21,IIT Kanpur,USA,industry_event,desktop,9,27,276,5,3,True,True,True,False,False,,,False,none,0,,,True,0
+usr_a280b3a125,industry,2026-01-10,2026-01-10,2026-06-19,GreenGrid Energy,USA,university_partner,desktop,10,70,459,6,1,,,True,True,False,True,False,False,none,0,,,False,0
+usr_2acff69831,industry,2026-03-18,2026-03-18,2026-07-02,TerraSoil Agritech,USA,referral,mobile,4,16,478,10,1,,,True,True,True,False,False,True,industry_premium,20000,50,2026-05-07,False,0
+usr_c10cfa96e3,researcher,2026-07-16,2026-07-16,2026-07-20,Anna University,Singapore,referral,mobile,6,48,83,0,0,False,True,False,True,False,,,False,none,0,,,False,0
+usr_28fb7a4cb0,industry,2026-02-21,2026-02-21,2026-04-13,Prime Biotech,India,industry_event,mobile,7,56,389,10,2,,,True,False,False,True,False,True,industry_premium,20000,25,2026-03-18,False,1
+usr_7dc481e752,researcher,2026-02-18,2026-02-18,2026-05-03,IISc Bangalore,India,word_of_mouth,mobile,3,27,181,2,1,True,True,False,False,True,,,False,none,0,,,True,0
+usr_5e83f9dbc0,industry,2026-05-31,2026-05-31,2026-07-24,Fusion Dynamics Corp,Singapore,linkedin,desktop,9,63,365,9,1,,,True,False,False,False,False,False,none,0,,,False,0
+usr_8a6c3f516b,researcher,2026-03-26,2026-03-26,2026-06-09,IIT Roorkee,India,direct,mobile,3,15,149,5,5,True,True,True,False,False,,,False,none,0,,,False,0
+usr_5eab9a6650,researcher,2026-04-28,2026-04-28,2026-05-21,IIT Bombay,Germany,industry_event,desktop,5,35,107,3,1,True,False,True,True,True,,,False,none,0,,,True,0
+usr_08331c38d1,researcher,2026-01-21,2026-01-21,2026-04-07,IIT Hyderabad,India,google_ads,desktop,1,7,58,2,0,True,True,False,False,False,,,False,none,0,,,True,0
+usr_d1c2f541a5,researcher,2026-02-23,2026-02-23,2026-07-03,NIT Trichy,India,organic_search,mobile,13,104,35,3,1,True,False,True,True,False,,,False,none,0,,,False,0
+usr_30d7697b15,researcher,2026-04-01,2026-04-01,2026-04-24,IIT Delhi,Germany,word_of_mouth,tablet,1,9,107,1,0,True,False,True,False,False,,,False,none,0,,,False,0
+usr_dc63013187,researcher,2026-04-01,2026-04-01,2026-06-18,VIT Vellore,India,university_partner,mobile,1,6,183,1,0,True,True,False,False,False,,,True,researcher_basic,300,21,2026-04-22,False,2
+usr_b2999575ac,industry,2026-02-11,2026-02-11,2026-07-04,Helios Renewables,Singapore,email_campaign,desktop,10,50,274,2,0,,,True,True,False,False,False,False,none,0,,,False,0
+usr_227cbeaf56,researcher,2026-04-01,2026-04-01,2026-04-24,Anna University,India,email_campaign,desktop,4,12,363,4,0,True,True,False,False,False,,,False,none,0,,,True,2
+usr_599f760706,industry,2026-05-20,2026-05-20,2026-07-03,Prime Biotech,India,linkedin,mobile,7,49,60,14,4,,,True,True,False,True,False,False,none,0,,,False,0
+usr_6a430adc40,industry,2026-04-23,2026-04-23,2026-06-22,AgroFuture Labs,India,direct,desktop,11,44,238,12,0,,,True,True,False,True,True,False,none,0,,,False,1
+usr_a17fac0ed0,researcher,2026-07-04,2026-07-04,2026-07-05,IIT Hyderabad,Germany,university_partner,desktop,2,8,215,0,0,False,True,True,False,True,,,False,none,0,,,False,0
+usr_f473bc091f,industry,2026-06-02,2026-06-02,2026-06-14,TerraSoil Agritech,USA,google_ads,desktop,1,6,396,3,2,,,True,True,False,True,True,False,none,0,,,False,2
+usr_2fca03f251,researcher,2026-04-08,2026-04-08,2026-06-01,VIT Vellore,Germany,email_campaign,mobile,4,12,285,2,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_932c652a06,researcher,2026-01-28,2026-01-28,2026-04-15,Jadavpur University,India,word_of_mouth,desktop,9,63,154,5,1,True,False,True,False,False,,,False,none,0,,,False,2
+usr_cfa2a96ac3,researcher,2026-03-05,2026-03-05,2026-06-12,IIT Bombay,India,referral,desktop,6,48,215,3,2,True,False,False,False,False,,,False,none,0,,,False,0
+usr_effa6b398d,researcher,2026-06-16,2026-06-16,2026-06-17,Jadavpur University,UAE,linkedin,mobile,6,24,197,3,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_4a9a6cac68,researcher,2026-05-08,2026-05-08,2026-06-21,IIT Roorkee,India,email_campaign,desktop,6,48,76,5,3,True,True,True,False,True,,,True,researcher_basic,300,18,2026-05-26,False,1
+usr_afc6e67f5c,researcher,2026-04-16,2026-04-16,2026-05-28,BITS Pilani,India,industry_event,mobile,1,3,132,5,2,True,False,True,True,False,,,False,none,0,,,True,0
+usr_94a8d10d85,industry,2026-05-12,2026-05-12,2026-06-21,IronClad Defense Systems,India,linkedin,desktop,6,72,319,11,4,,,True,True,False,False,False,False,none,0,,,False,0
+usr_93ac6bd91a,researcher,2026-05-13,2026-05-13,2026-06-23,BITS Pilani,India,word_of_mouth,desktop,11,66,187,2,1,True,True,False,True,False,,,False,none,0,,,False,0
+usr_4636eaa01b,industry,2026-02-09,2026-02-09,2026-07-17,NextGen Pharma,India,university_partner,desktop,1,10,212,4,1,,,True,False,False,False,False,False,none,0,,,False,0
+usr_8586290639,researcher,2026-03-24,2026-03-24,2026-07-15,Jadavpur University,UAE,email_campaign,desktop,1,8,240,2,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_39e5785bd1,researcher,2026-07-22,2026-07-22,2026-07-23,IIT Bombay,India,university_partner,mobile,10,40,116,3,0,True,True,True,True,True,,,False,none,0,,,False,2
+usr_7553cbd40f,researcher,2026-05-24,2026-05-24,2026-06-23,IIT Madras,Germany,organic_search,desktop,10,40,273,5,2,True,True,False,True,True,,,False,none,0,,,False,0
+usr_5488097616,industry,2026-06-23,2026-06-23,2026-07-22,Vertex Manufacturing,India,university_partner,mobile,3,36,231,2,1,,,True,False,False,False,True,False,none,0,,,False,0
+usr_385111f394,researcher,2026-03-19,2026-03-19,2026-06-15,BITS Pilani,India,referral,mobile,1,7,118,1,0,True,True,True,False,False,,,False,none,0,,,False,0
+usr_c181a2ad8e,researcher,2026-07-11,2026-07-11,2026-07-21,IIT Bombay,India,organic_search,desktop,1,5,161,0,0,False,True,True,True,False,,,False,none,0,,,False,1
+usr_25df2fe1a5,researcher,2026-03-17,2026-03-17,2026-05-05,IISc Bangalore,India,university_partner,desktop,1,6,97,2,1,True,True,True,False,True,,,False,none,0,,,True,0
+usr_bcf0d9ab15,researcher,2026-04-23,2026-04-23,2026-05-09,IIT Kanpur,India,industry_event,desktop,6,30,309,3,3,True,True,False,False,False,,,False,none,0,,,True,0
+usr_e0192cc36d,industry,2026-05-05,2026-05-05,2026-06-25,Helios Renewables,India,university_partner,desktop,18,108,282,14,3,,,False,True,False,True,False,False,none,0,,,False,0
+usr_d54b270480,industry,2026-06-27,2026-06-27,2026-07-21,GreenGrid Energy,India,email_campaign,desktop,2,14,434,13,3,,,True,True,False,True,True,False,none,0,,,False,1
+usr_d50f20f0b2,researcher,2026-06-22,2026-06-22,2026-06-24,Delhi University,India,word_of_mouth,desktop,8,72,73,5,3,True,True,False,False,True,,,False,none,0,,,False,0
+usr_860961a40e,researcher,2026-07-23,2026-07-23,2026-07-24,IIT Hyderabad,UAE,industry_event,desktop,8,72,285,2,1,True,True,False,False,True,,,False,none,0,,,False,2
+usr_d405b85553,researcher,2026-05-15,2026-05-15,2026-06-05,IISc Bangalore,UAE,google_ads,desktop,3,18,232,3,0,True,False,True,False,False,,,False,none,0,,,True,0
+usr_7b517d2b9f,industry,2026-04-16,2026-04-16,2026-06-19,IronClad Defense Systems,India,university_partner,mobile,10,50,60,5,1,,,True,True,False,False,False,False,none,0,,,False,3
+usr_9ec405f7d2,industry,2026-01-04,2026-01-04,2026-06-21,TerraSoil Agritech,India,linkedin,desktop,24,240,280,10,3,,,True,False,True,True,False,False,none,0,,,False,0
+usr_b120741d7e,researcher,2026-02-02,2026-02-02,2026-06-27,IIT Kanpur,India,linkedin,desktop,5,30,222,5,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_f4b502932b,researcher,2026-05-08,2026-05-08,2026-05-21,IISc Bangalore,India,industry_event,desktop,3,12,115,4,2,True,True,False,False,True,,,False,none,0,,,True,0
+usr_c5483c7aeb,researcher,2026-03-12,2026-03-12,2026-07-24,NIT Trichy,India,referral,desktop,1,7,158,5,5,True,True,False,False,True,,,False,none,0,,,False,2
+usr_5ea7bf25b7,researcher,2026-02-08,2026-02-08,2026-02-10,IIITD,India,referral,desktop,4,36,202,5,0,True,True,True,False,False,,,False,none,0,,,False,0
+usr_5fabe553b9,researcher,2026-01-31,2026-01-31,2026-05-09,VIT Vellore,India,word_of_mouth,desktop,5,45,208,4,1,True,False,True,False,False,,,False,none,0,,,False,2
+usr_954598d457,researcher,2026-06-11,2026-06-11,2026-06-14,Delhi University,India,google_ads,desktop,7,28,223,3,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_41b226a487,industry,2026-06-17,2026-06-17,2026-07-24,Fusion Dynamics Corp,Germany,google_ads,desktop,1,6,359,12,3,,,True,False,False,True,False,False,none,0,,,False,2
+usr_88bfee981d,industry,2026-07-04,2026-07-04,2026-07-16,IronClad Defense Systems,India,referral,desktop,16,112,307,4,2,,,True,True,True,True,False,False,none,0,,,False,2
+usr_78fb162468,industry,2026-02-27,2026-02-27,2026-03-01,Helios Renewables,USA,referral,desktop,1,10,520,11,3,,,False,False,False,True,False,True,industry_premium,20000,51,2026-04-19,False,2
+usr_e04f9ffe3f,researcher,2026-03-29,2026-03-29,2026-07-12,Anna University,India,linkedin,mobile,3,9,171,1,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_0141468db7,researcher,2026-03-24,2026-03-24,2026-05-01,IIT Roorkee,Singapore,industry_event,mobile,10,60,170,4,4,True,True,False,False,False,,,False,none,0,,,False,0
+usr_383b032c6a,researcher,2026-05-04,2026-05-04,2026-06-18,IISc Bangalore,India,organic_search,mobile,8,72,20,1,1,True,True,True,False,False,,,False,none,0,,,True,0
+usr_c53a90c90d,industry,2026-06-11,2026-06-11,2026-07-09,DeepCore AI,India,google_ads,desktop,21,168,106,7,3,,,True,True,False,False,False,True,industry_standard,15000,58,2026-08-08,False,0
+usr_fcdc5b3b94,industry,2026-01-09,2026-01-09,2026-03-22,Lumen Photonics,USA,organic_search,desktop,1,5,449,9,0,,,True,False,True,False,True,False,none,0,,,True,0
+usr_6067efd429,researcher,2026-05-09,2026-05-09,2026-07-09,IIT Madras,UAE,university_partner,mobile,4,24,133,1,1,True,True,True,True,False,,,False,none,0,,,False,0
+usr_c970ac187d,industry,2026-07-20,2026-07-20,2026-07-21,Lumen Photonics,India,referral,desktop,7,77,343,9,0,,,True,False,True,False,False,False,none,0,,,False,0
+usr_ef9676f254,researcher,2026-03-22,2026-03-22,2026-03-29,Delhi University,India,organic_search,desktop,3,27,198,5,3,True,False,True,False,True,,,False,none,0,,,True,0
+usr_11f835a93f,researcher,2026-01-20,2026-01-20,2026-04-12,Delhi University,India,linkedin,tablet,4,28,243,5,3,True,True,True,True,False,,,True,researcher_basic,300,16,2026-02-05,False,0
+usr_838e607003,researcher,2026-04-10,2026-04-10,2026-05-30,VIT Vellore,India,word_of_mouth,mobile,3,27,380,4,0,True,True,False,False,False,,,False,none,0,,,True,1
+usr_22d631636a,researcher,2026-07-21,2026-07-21,2026-07-24,IIT Hyderabad,India,industry_event,mobile,5,15,158,4,1,True,False,True,False,True,,,False,none,0,,,False,0
+usr_8229ed61b0,researcher,2026-07-13,2026-07-13,2026-07-25,IIT Madras,Germany,university_partner,desktop,5,40,91,3,0,True,True,True,True,False,,,False,none,0,,,False,0
+usr_b173a05f83,researcher,2026-03-09,2026-03-09,2026-04-30,IIT Roorkee,India,google_ads,mobile,5,15,107,1,0,True,False,False,False,False,,,False,none,0,,,False,0
+usr_5f2766393a,researcher,2026-01-21,2026-01-21,2026-04-19,IIT Madras,India,email_campaign,mobile,8,24,217,1,1,True,False,False,False,False,,,False,none,0,,,True,0
+usr_41f158b388,researcher,2026-02-17,2026-02-17,2026-05-18,IIT Kanpur,India,google_ads,mobile,5,45,108,3,2,True,False,True,False,False,,,False,none,0,,,False,0
+usr_336960fe13,researcher,2026-05-15,2026-05-15,2026-06-16,IIT Hyderabad,Singapore,industry_event,desktop,8,64,202,3,2,True,True,False,True,False,,,False,none,0,,,True,0
+usr_0b8dec709a,researcher,2026-05-06,2026-05-06,2026-06-09,IIITD,India,google_ads,mobile,1,7,328,4,2,True,False,False,False,True,,,False,none,0,,,True,1
+usr_76f59aa632,researcher,2026-03-29,2026-03-29,2026-07-04,Independent Researcher,India,referral,desktop,11,99,215,4,1,True,True,False,False,True,,,False,none,0,,,False,1
+usr_3b5d7db56a,researcher,2026-03-23,2026-03-23,2026-04-30,IIT Hyderabad,India,google_ads,mobile,5,25,308,0,0,False,False,False,False,False,,,False,none,0,,,True,0
+usr_6f2ca4f27c,researcher,2026-03-24,2026-03-24,2026-05-01,IIT Hyderabad,Singapore,google_ads,mobile,1,7,81,0,0,False,False,True,False,False,,,False,none,0,,,False,0
+usr_1868cd0ecc,researcher,2026-06-02,2026-06-02,2026-07-23,IIT Delhi,India,word_of_mouth,desktop,7,49,269,1,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_f7fa260e28,researcher,2026-05-30,2026-05-30,2026-07-12,IIT Madras,India,google_ads,tablet,1,9,254,4,1,True,False,True,True,True,,,True,researcher_basic,300,2,2026-06-01,False,0
+usr_fdce7a621c,researcher,2026-01-09,2026-01-09,2026-06-12,Independent Researcher,UAE,direct,mobile,5,40,152,2,2,True,True,True,False,False,,,False,none,0,,,True,0
+usr_0b385ea80b,researcher,2026-06-18,2026-06-18,2026-06-28,IIT Hyderabad,India,organic_search,desktop,2,14,160,2,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_55659ed0b5,researcher,2026-03-20,2026-03-20,2026-06-24,IIT Delhi,India,organic_search,mobile,9,54,132,0,0,False,False,True,True,False,,,False,none,0,,,False,1
+usr_412a148da1,researcher,2026-03-12,2026-03-12,2026-04-03,Anna University,India,organic_search,mobile,1,7,139,2,2,True,False,True,False,False,,,False,none,0,,,True,0
+usr_4b5f46ca6a,researcher,2026-05-15,2026-05-15,2026-07-10,IIT Bombay,India,organic_search,mobile,9,54,177,2,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_30f3bbe1a4,researcher,2026-05-28,2026-05-28,2026-06-28,Anna University,Singapore,google_ads,desktop,14,70,160,5,0,True,False,True,False,False,,,False,none,0,,,False,0
+usr_f3c7b5b2b4,researcher,2026-07-02,2026-07-02,2026-07-05,IISc Bangalore,Singapore,university_partner,desktop,5,45,205,3,0,True,True,True,True,False,,,False,none,0,,,False,0
+usr_1594c0b78a,industry,2026-01-29,2026-01-29,2026-04-27,IronClad Defense Systems,India,direct,mobile,6,30,257,6,0,,,True,True,False,True,False,False,none,0,,,True,1
+usr_7af5cfb69d,researcher,2026-07-09,2026-07-09,2026-07-15,Anna University,India,organic_search,mobile,8,48,277,1,0,True,True,True,False,False,,,False,none,0,,,False,0
+usr_0baaf15935,researcher,2026-04-08,2026-04-08,2026-07-05,BITS Pilani,Germany,referral,mobile,1,4,181,3,1,True,True,True,True,False,,,False,none,0,,,False,0
+usr_b4ba953536,researcher,2026-06-13,2026-06-13,2026-06-16,IISc Bangalore,India,referral,mobile,1,3,254,4,3,True,True,False,False,True,,,False,none,0,,,False,1
+usr_e1ec1896b7,industry,2026-07-19,2026-07-19,2026-07-21,Nova Materials Pvt Ltd,UAE,industry_event,desktop,17,170,484,13,1,,,True,False,True,True,False,False,none,0,,,False,1
+usr_c6baeb26bc,researcher,2026-07-18,2026-07-18,2026-07-25,IIITD,India,referral,desktop,1,9,140,2,1,True,True,False,True,False,,,False,none,0,,,False,1
+usr_27c15f9978,industry,2026-02-13,2026-02-13,2026-05-23,AgroFuture Labs,India,referral,desktop,4,48,463,12,4,,,True,False,False,False,True,False,none,0,,,False,1
+usr_4e2ba8bc7b,researcher,2026-05-21,2026-05-21,2026-05-27,Anna University,India,industry_event,desktop,13,39,179,0,0,False,False,True,False,False,,,False,none,0,,,True,0
+usr_40ffc10a18,industry,2026-07-16,2026-07-16,2026-07-23,DeepCore AI,Singapore,word_of_mouth,desktop,7,42,93,14,5,,,True,True,False,True,True,True,industry_standard,15000,47,2026-09-01,False,0
+usr_e450123ff8,researcher,2026-04-30,2026-04-30,2026-05-08,IIT Kanpur,India,linkedin,mobile,1,6,104,1,1,True,False,True,False,False,,,False,none,0,,,True,0
+usr_ab324dcbee,researcher,2026-06-29,2026-06-29,2026-07-10,IIT Bombay,UAE,industry_event,mobile,11,55,277,1,1,True,True,False,False,False,,,True,researcher_basic,300,8,2026-07-07,False,1
+usr_e4011d4bf8,researcher,2026-05-20,2026-05-20,2026-07-07,IIITD,India,email_campaign,desktop,2,12,267,5,1,True,True,True,True,True,,,True,researcher_basic,300,9,2026-05-29,False,0
+usr_89242b6583,industry,2026-06-26,2026-06-26,2026-07-05,NextGen Pharma,UAE,organic_search,mobile,2,14,224,15,5,,,True,False,False,False,True,False,none,0,,,False,1
+usr_c7d3c15e33,researcher,2026-06-29,2026-06-29,2026-07-14,IIT Hyderabad,India,industry_event,mobile,7,28,200,2,0,True,True,False,True,False,,,False,none,0,,,False,0
+usr_d2361409ab,researcher,2026-02-14,2026-02-14,2026-04-15,Delhi University,UAE,google_ads,desktop,8,24,279,4,3,True,True,True,False,True,,,False,none,0,,,True,0
+usr_eba45f41ba,industry,2026-05-19,2026-05-19,2026-07-12,Prime Biotech,India,linkedin,mobile,10,90,356,3,2,,,True,True,False,True,False,False,none,0,,,False,0
+usr_d042202871,researcher,2026-02-13,2026-02-13,2026-07-25,Anna University,UAE,university_partner,desktop,1,4,62,4,2,True,True,False,False,True,,,False,none,0,,,False,0
+usr_5b22b83db3,researcher,2026-06-08,2026-06-08,2026-07-06,IIT Bombay,USA,word_of_mouth,mobile,5,40,77,1,0,True,True,False,False,False,,,False,none,0,,,False,1
+usr_fac7bb2da2,industry,2026-01-01,2026-01-01,2026-06-12,DeepCore AI,India,direct,desktop,1,12,468,7,0,,,False,True,False,False,False,False,none,0,,,False,0
+usr_4caf03eded,researcher,2026-06-19,2026-06-19,2026-06-24,IIT Roorkee,Germany,industry_event,desktop,10,60,130,3,3,True,True,True,True,False,,,True,researcher_basic,300,4,2026-06-23,False,0
+usr_4e8c70e97b,researcher,2026-02-13,2026-02-13,2026-05-26,IIT Hyderabad,Singapore,word_of_mouth,desktop,3,9,210,0,0,False,True,False,True,False,,,False,none,0,,,False,0
+usr_cc77dde10d,researcher,2026-04-08,2026-04-08,2026-07-02,Anna University,Singapore,google_ads,desktop,10,30,167,1,1,True,False,True,True,False,,,True,researcher_basic,300,5,2026-04-13,False,0
+usr_a349f2ec06,researcher,2026-04-23,2026-04-23,2026-05-30,IIT Delhi,India,linkedin,mobile,1,4,178,3,0,True,False,True,True,False,,,False,none,0,,,True,0
+usr_0efc5b0c54,researcher,2026-07-08,2026-07-08,2026-07-09,NIT Trichy,India,google_ads,mobile,3,9,184,0,0,False,True,True,True,False,,,True,researcher_basic,300,4,2026-07-12,False,0
+usr_025941d66b,researcher,2026-05-15,2026-05-15,2026-07-09,Independent Researcher,India,industry_event,desktop,3,12,83,2,2,True,True,False,True,False,,,True,researcher_basic,300,11,2026-05-26,False,0
+usr_c560c0d504,researcher,2026-04-24,2026-04-24,2026-06-01,NIT Trichy,India,word_of_mouth,desktop,4,32,156,4,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_963daad8f9,researcher,2026-03-28,2026-03-28,2026-04-13,Independent Researcher,India,referral,desktop,3,12,280,3,2,True,True,False,False,False,,,False,none,0,,,True,0
+usr_374e2a53b8,researcher,2026-01-29,2026-01-29,2026-04-17,IISc Bangalore,USA,industry_event,tablet,13,39,245,2,2,True,True,True,False,False,,,False,none,0,,,True,1
+usr_8fa1750cb1,industry,2026-05-27,2026-05-27,2026-05-30,Nova Materials Pvt Ltd,India,organic_search,desktop,9,72,393,7,2,,,False,False,True,False,False,False,none,0,,,True,3
+usr_19f8f5d5d9,researcher,2026-02-09,2026-02-09,2026-03-20,VIT Vellore,USA,google_ads,desktop,1,8,91,3,1,True,False,True,False,False,,,False,none,0,,,True,0
+usr_1663edf194,industry,2026-05-21,2026-05-21,2026-06-07,MedTech Solutions,UAE,industry_event,mobile,14,56,240,6,0,,,True,True,False,False,True,False,none,0,,,False,0
+usr_e4115968ec,researcher,2026-04-12,2026-04-12,2026-04-13,IIT Roorkee,UAE,industry_event,mobile,3,18,97,0,0,False,False,False,False,False,,,False,none,0,,,True,0
+usr_3549edb541,researcher,2026-03-19,2026-03-19,2026-05-01,IIT Kanpur,India,industry_event,desktop,2,12,212,5,3,True,True,False,False,False,,,False,none,0,,,False,0
+usr_848feca0fc,researcher,2026-02-05,2026-02-05,2026-03-06,BITS Pilani,India,industry_event,mobile,5,35,20,1,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_53edd1f7a7,researcher,2026-03-01,2026-03-01,2026-07-22,IIT Kanpur,India,email_campaign,mobile,6,36,20,1,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_fcef1249d7,researcher,2026-01-12,2026-01-12,2026-06-02,IIT Hyderabad,India,linkedin,mobile,5,45,135,3,1,True,True,True,True,False,,,False,none,0,,,True,0
+usr_360c0a6028,industry,2026-04-23,2026-04-23,2026-05-14,Skyline Robotics,India,word_of_mouth,mobile,14,70,265,14,1,,,False,False,True,True,False,True,industry_standard,15000,41,2026-06-03,False,0
+usr_74982c6479,researcher,2026-06-21,2026-06-21,2026-07-01,VIT Vellore,India,email_campaign,mobile,2,16,235,0,0,False,False,False,False,False,,,False,none,0,,,False,0
+usr_71c9cc918d,industry,2026-04-09,2026-04-09,2026-06-08,IronClad Defense Systems,India,university_partner,desktop,2,16,569,9,0,,,True,True,True,False,False,False,none,0,,,True,1
+usr_f152bac5cb,researcher,2026-05-18,2026-05-18,2026-06-10,IIT Kanpur,Singapore,word_of_mouth,desktop,7,28,244,2,0,True,True,True,False,True,,,False,none,0,,,False,0
+usr_67d8d695dd,industry,2026-06-22,2026-06-22,2026-07-06,Skyline Robotics,India,direct,mobile,6,72,84,2,2,,,True,False,False,False,True,True,industry_premium,20000,56,2026-08-17,False,0
+usr_5649caa1fd,researcher,2026-03-02,2026-03-02,2026-06-01,IIITD,Germany,google_ads,desktop,15,105,92,4,2,True,False,True,False,False,,,True,researcher_basic,300,18,2026-03-20,False,0
+usr_3a19c8f5c3,industry,2026-02-26,2026-02-26,2026-03-11,Vertex Manufacturing,India,university_partner,desktop,6,72,259,3,1,,,True,True,False,False,True,False,none,0,,,False,0
+usr_04c67d2199,researcher,2026-02-26,2026-02-26,2026-03-12,IIT Kanpur,USA,direct,desktop,8,72,388,2,0,True,True,True,True,False,,,False,none,0,,,False,1
+usr_2b40f2cc7d,researcher,2026-06-18,2026-06-18,2026-07-20,Jadavpur University,India,linkedin,desktop,6,48,178,2,2,True,False,False,False,False,,,False,none,0,,,False,0
+usr_935fb5a698,researcher,2026-03-24,2026-03-24,2026-07-16,Independent Researcher,India,word_of_mouth,mobile,1,3,177,5,5,True,True,True,False,True,,,False,none,0,,,False,0
+usr_7517125992,researcher,2026-04-04,2026-04-04,2026-06-26,Anna University,India,industry_event,desktop,1,9,270,1,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_256ca01d1f,industry,2026-07-15,2026-07-15,2026-07-16,Quantum Analytics Inc,India,email_campaign,desktop,10,80,191,8,3,,,False,True,False,False,False,False,none,0,,,False,1
+usr_4e70e5bd47,researcher,2026-06-03,2026-06-03,2026-07-16,IIT Delhi,India,email_campaign,tablet,13,52,179,3,0,True,True,True,False,False,,,False,none,0,,,False,1
+usr_21c5001036,researcher,2026-01-24,2026-01-24,2026-02-18,BITS Pilani,India,email_campaign,desktop,5,35,20,4,0,True,False,False,False,False,,,False,none,0,,,False,0
+usr_3cd7a87a41,researcher,2026-04-17,2026-04-17,2026-05-18,IIT Hyderabad,UAE,word_of_mouth,desktop,2,6,20,1,1,True,False,True,False,False,,,False,none,0,,,True,2
+usr_dc746ccc7b,researcher,2026-07-01,2026-07-01,2026-07-16,Delhi University,USA,email_campaign,desktop,6,54,191,5,5,True,True,True,True,False,,,False,none,0,,,False,0
+usr_fc330307fe,researcher,2026-04-20,2026-04-20,2026-04-21,IIT Hyderabad,India,direct,desktop,13,52,264,3,2,True,False,False,True,True,,,False,none,0,,,False,0
+usr_55485c18e6,researcher,2026-06-24,2026-06-24,2026-07-16,BITS Pilani,India,linkedin,desktop,10,90,244,2,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_99724ba8ed,researcher,2026-07-13,2026-07-13,2026-07-14,IIT Hyderabad,USA,university_partner,desktop,8,32,366,5,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_b307e8e05c,researcher,2026-07-03,2026-07-03,2026-07-18,IIT Hyderabad,India,university_partner,desktop,10,60,83,0,0,False,False,False,False,False,,,False,none,0,,,False,0
+usr_6540b19f4e,researcher,2026-05-28,2026-05-28,2026-06-06,IIT Madras,Germany,organic_search,desktop,9,81,43,2,2,True,True,True,True,False,,,False,none,0,,,True,0
+usr_38e040b6b9,researcher,2026-02-18,2026-02-18,2026-03-21,IISc Bangalore,India,direct,desktop,10,40,179,3,3,True,False,True,True,False,,,False,none,0,,,False,0
+usr_d60d2e3e02,researcher,2026-04-27,2026-04-27,2026-06-21,NIT Trichy,India,email_campaign,mobile,18,126,101,5,0,True,True,True,True,True,,,False,none,0,,,True,0
+usr_b840e6372b,researcher,2026-04-20,2026-04-20,2026-06-26,IIT Delhi,Germany,linkedin,desktop,5,40,423,3,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_d82776c917,researcher,2026-01-01,2026-01-01,2026-01-25,BITS Pilani,USA,google_ads,mobile,11,88,157,2,1,True,True,True,True,False,,,False,none,0,,,False,0
+usr_44f41b9b89,researcher,2026-04-19,2026-04-19,2026-05-25,Jadavpur University,India,referral,desktop,5,30,206,5,0,True,True,True,False,False,,,False,none,0,,,True,0
+usr_1e592ed2c4,industry,2026-03-23,2026-03-23,2026-06-09,Prime Biotech,India,word_of_mouth,desktop,12,60,491,7,4,,,True,True,False,True,False,True,industry_premium,20000,10,2026-04-02,False,0
+usr_bb1e80f31b,researcher,2026-07-10,2026-07-10,2026-07-22,IIT Bombay,India,industry_event,desktop,6,18,267,1,0,True,False,True,True,False,,,False,none,0,,,False,0
+usr_85929eed88,industry,2026-06-19,2026-06-19,2026-06-24,Fusion Dynamics Corp,UAE,google_ads,desktop,16,64,93,8,1,,,True,True,True,True,False,False,none,0,,,False,1
+usr_61a5b06b09,industry,2026-07-01,2026-07-01,2026-07-14,GreenGrid Energy,UAE,word_of_mouth,desktop,9,90,352,4,4,,,False,True,False,True,True,False,none,0,,,False,1
+usr_66d0705f68,researcher,2026-07-06,2026-07-06,2026-07-23,NIT Trichy,India,industry_event,mobile,9,45,251,4,2,True,False,False,True,True,,,True,researcher_basic,300,9,2026-07-15,False,0
+usr_4e25d7a59a,researcher,2026-03-06,2026-03-06,2026-05-22,Independent Researcher,Germany,word_of_mouth,mobile,13,39,179,4,2,True,True,False,False,False,,,True,researcher_basic,300,2,2026-03-08,False,1
+usr_6b2c74c606,industry,2026-05-31,2026-05-31,2026-06-05,Quantum Analytics Inc,Germany,email_campaign,mobile,16,144,201,6,0,,,True,True,True,True,False,False,none,0,,,True,0
+usr_b028761ed7,industry,2026-07-16,2026-07-16,2026-07-18,Lumen Photonics,India,linkedin,mobile,9,63,235,5,5,,,True,False,True,True,False,False,none,0,,,False,2
+usr_f35f7c62d5,researcher,2026-04-05,2026-04-05,2026-05-01,Delhi University,Singapore,university_partner,mobile,2,10,209,4,3,True,True,False,False,False,,,False,none,0,,,True,0
+usr_abd4f41120,researcher,2026-04-19,2026-04-19,2026-06-18,IISc Bangalore,India,university_partner,mobile,11,88,223,2,2,True,True,True,False,False,,,False,none,0,,,True,0
+usr_6084c60056,industry,2026-04-06,2026-04-06,2026-04-28,Lumen Photonics,Singapore,university_partner,mobile,30,300,240,5,4,,,False,True,False,True,False,False,none,0,,,True,1
+usr_2243c7498a,researcher,2026-01-27,2026-01-27,2026-06-20,Independent Researcher,India,university_partner,desktop,12,48,155,0,0,False,False,False,False,True,,,False,none,0,,,True,0
+usr_4b562f0038,researcher,2026-04-27,2026-04-27,2026-05-30,VIT Vellore,USA,organic_search,mobile,6,18,73,0,0,False,True,False,False,True,,,False,none,0,,,True,0
+usr_b0feed70ea,industry,2026-04-19,2026-04-19,2026-06-28,Skyline Robotics,UAE,direct,desktop,9,54,473,10,1,,,True,True,False,True,False,True,industry_premium,20000,47,2026-06-05,False,1
+usr_a7b3601631,researcher,2026-04-03,2026-04-03,2026-04-16,Anna University,India,linkedin,mobile,9,63,229,5,2,True,True,True,False,True,,,False,none,0,,,True,0
+usr_bd26b8ffaf,researcher,2026-03-25,2026-03-25,2026-04-19,Independent Researcher,India,word_of_mouth,desktop,3,18,209,0,0,False,False,True,False,False,,,False,none,0,,,False,0
+usr_588cc7a637,researcher,2026-07-02,2026-07-02,2026-07-16,Anna University,UAE,email_campaign,mobile,5,40,318,3,0,True,False,True,True,False,,,False,none,0,,,False,0
+usr_1ccf77fd14,researcher,2026-05-25,2026-05-25,2026-06-29,IIITD,India,word_of_mouth,desktop,4,12,111,3,0,True,False,False,False,True,,,False,none,0,,,False,0
+usr_4c709874dd,industry,2026-07-15,2026-07-15,2026-07-16,MedTech Solutions,India,linkedin,desktop,4,48,329,8,5,,,True,True,False,False,False,False,none,0,,,False,0
+usr_17f26cd0de,researcher,2026-04-06,2026-04-06,2026-06-30,IIT Kanpur,UAE,direct,desktop,2,10,138,3,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_f5fbf22e30,researcher,2026-04-06,2026-04-06,2026-05-17,IIITD,India,referral,desktop,8,64,305,5,4,True,True,False,False,True,,,False,none,0,,,True,0
+usr_f68f037355,industry,2026-06-13,2026-06-13,2026-06-15,Fusion Dynamics Corp,Singapore,linkedin,desktop,8,72,328,7,3,,,True,True,False,False,False,False,none,0,,,False,0
+usr_c596c4c4fb,researcher,2026-03-03,2026-03-03,2026-03-30,VIT Vellore,India,organic_search,desktop,5,15,99,4,1,True,True,False,False,False,,,False,none,0,,,True,0
+usr_c8a567f84d,researcher,2026-03-28,2026-03-28,2026-04-03,NIT Trichy,USA,organic_search,tablet,11,88,86,3,0,True,True,True,False,False,,,False,none,0,,,True,0
+usr_45d8cc2321,industry,2026-03-27,2026-03-27,2026-07-05,AgroFuture Labs,India,word_of_mouth,desktop,18,198,97,15,1,,,True,False,True,False,False,False,none,0,,,False,0
+usr_8390ae51cc,researcher,2026-05-21,2026-05-21,2026-05-28,Jadavpur University,India,industry_event,mobile,1,9,262,2,1,True,True,False,False,True,,,True,researcher_basic,300,2,2026-05-23,False,0
+usr_6df4db78cf,researcher,2026-03-18,2026-03-18,2026-04-23,Anna University,India,word_of_mouth,desktop,1,3,282,4,3,True,True,False,False,True,,,True,researcher_basic,300,2,2026-03-20,False,0
+usr_b5560af824,researcher,2026-03-23,2026-03-23,2026-04-26,IISc Bangalore,India,referral,mobile,8,72,207,1,1,True,True,True,False,False,,,False,none,0,,,True,0
+usr_da74733364,researcher,2026-07-16,2026-07-16,2026-07-24,IIITD,India,word_of_mouth,desktop,2,6,60,3,2,True,False,True,False,False,,,False,none,0,,,False,0
+usr_24ed2cc780,researcher,2026-04-19,2026-04-19,2026-05-07,IIT Madras,India,google_ads,desktop,10,60,392,1,1,True,False,True,False,False,,,False,none,0,,,True,0
+usr_f954d0742d,researcher,2026-02-12,2026-02-12,2026-06-28,IIT Bombay,India,word_of_mouth,mobile,4,32,135,4,0,True,False,True,True,False,,,False,none,0,,,False,0
+usr_3d28ad3692,researcher,2026-04-22,2026-04-22,2026-07-13,Anna University,Germany,google_ads,desktop,9,72,110,4,1,True,True,True,True,False,,,False,none,0,,,False,0
+usr_6cebe4e1d4,researcher,2026-02-27,2026-02-27,2026-05-27,Jadavpur University,India,organic_search,desktop,1,7,292,5,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_9bd7291e03,researcher,2026-04-07,2026-04-07,2026-07-03,Anna University,India,direct,desktop,6,18,106,1,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_42926d9326,researcher,2026-04-24,2026-04-24,2026-07-21,NIT Trichy,Singapore,university_partner,mobile,5,20,20,3,0,True,True,True,False,False,,,False,none,0,,,False,0
+usr_7e627f4c01,researcher,2026-01-08,2026-01-08,2026-01-19,IIT Roorkee,India,referral,desktop,6,24,110,3,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_5b169ade14,researcher,2026-05-11,2026-05-11,2026-07-02,IIT Hyderabad,India,organic_search,desktop,1,9,211,4,1,True,True,True,False,True,,,False,none,0,,,False,1
+usr_aa55a07c8a,researcher,2026-01-12,2026-01-12,2026-05-03,Independent Researcher,India,email_campaign,desktop,1,8,159,3,2,True,False,False,False,True,,,False,none,0,,,True,0
+usr_f4c07b04c1,researcher,2026-05-18,2026-05-18,2026-05-21,IIT Kanpur,India,industry_event,mobile,8,56,131,0,0,False,True,True,False,False,,,False,none,0,,,False,0
+usr_5a1c22a5b3,researcher,2026-04-13,2026-04-13,2026-06-17,NIT Trichy,India,industry_event,tablet,5,25,192,2,2,True,False,False,False,True,,,False,none,0,,,True,0
+usr_9b828a7334,researcher,2026-05-19,2026-05-19,2026-07-18,IIT Roorkee,Singapore,direct,desktop,1,3,250,3,3,True,True,False,True,False,,,False,none,0,,,False,0
+usr_8aa3a7ce53,researcher,2026-02-27,2026-02-27,2026-03-04,VIT Vellore,India,university_partner,desktop,1,6,213,1,0,True,False,True,False,False,,,False,none,0,,,True,0
+usr_b54846464a,researcher,2026-07-05,2026-07-05,2026-07-14,IIT Bombay,Germany,referral,desktop,8,32,302,0,0,False,False,True,True,False,,,False,none,0,,,False,0
+usr_6b72152c48,researcher,2026-02-14,2026-02-14,2026-05-04,VIT Vellore,Germany,university_partner,mobile,5,40,136,5,0,True,False,False,False,False,,,False,none,0,,,True,0
+usr_2298739e25,researcher,2026-06-17,2026-06-17,2026-07-20,IIT Madras,India,email_campaign,mobile,1,7,317,1,0,True,False,True,False,False,,,False,none,0,,,False,0
+usr_bb0ba6cdee,researcher,2026-06-03,2026-06-03,2026-06-27,IIT Hyderabad,Germany,referral,mobile,9,27,40,3,2,True,True,True,True,False,,,False,none,0,,,False,0
+usr_ee9224c7b0,industry,2026-05-06,2026-05-06,2026-07-20,Fusion Dynamics Corp,Singapore,direct,desktop,8,40,318,14,5,,,True,True,False,True,True,False,none,0,,,False,1
+usr_dbc0a1a573,researcher,2026-03-06,2026-03-06,2026-07-04,Anna University,India,direct,tablet,11,55,129,1,1,True,False,False,False,False,,,False,none,0,,,False,0
+usr_72fe5d2cb2,researcher,2026-03-04,2026-03-04,2026-07-23,IISc Bangalore,UAE,referral,mobile,1,7,315,3,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_331a21268b,researcher,2026-04-06,2026-04-06,2026-07-09,Independent Researcher,India,organic_search,desktop,9,63,187,3,2,True,True,False,True,True,,,False,none,0,,,False,0
+usr_4d38cf2d84,industry,2026-01-11,2026-01-11,2026-01-20,Nova Materials Pvt Ltd,USA,word_of_mouth,desktop,1,10,291,2,0,,,True,False,True,False,False,False,none,0,,,False,1
+usr_7b0ab9932d,industry,2026-07-19,2026-07-19,2026-07-24,Skyline Robotics,India,word_of_mouth,mobile,3,21,425,2,2,,,True,True,False,True,False,False,none,0,,,False,0
+usr_b83ce8af6a,industry,2026-02-28,2026-02-28,2026-07-06,Prime Biotech,India,organic_search,mobile,10,50,92,6,5,,,True,False,False,False,False,False,none,0,,,False,0
+usr_561c11b742,researcher,2026-02-27,2026-02-27,2026-06-09,IIITD,Germany,email_campaign,desktop,1,3,298,4,2,True,True,True,False,False,,,False,none,0,,,True,0
+usr_d134ac2132,researcher,2026-03-12,2026-03-12,2026-07-21,IIT Delhi,Germany,industry_event,mobile,1,3,129,2,1,True,True,True,False,False,,,False,none,0,,,False,0
+usr_3314652c63,researcher,2026-03-20,2026-03-20,2026-04-27,BITS Pilani,India,organic_search,desktop,1,4,194,2,2,True,True,False,False,False,,,False,none,0,,,True,0
+usr_5e930a4079,industry,2026-07-18,2026-07-18,2026-07-23,Fusion Dynamics Corp,Singapore,word_of_mouth,desktop,13,117,377,5,0,,,True,False,True,True,False,False,none,0,,,False,0
+usr_6fa3623144,industry,2026-05-30,2026-05-30,2026-06-24,Quantum Analytics Inc,India,direct,desktop,7,28,232,14,1,,,True,False,False,False,False,False,none,0,,,False,0
+usr_21a6b8f1e6,researcher,2026-02-08,2026-02-08,2026-05-26,Jadavpur University,USA,linkedin,desktop,8,48,252,0,0,False,False,True,False,False,,,False,none,0,,,False,0
+usr_f6e059fb8d,industry,2026-03-19,2026-03-19,2026-05-31,AgroFuture Labs,India,referral,mobile,10,40,279,7,5,,,True,False,False,True,True,False,none,0,,,True,0
+usr_6e7fb8edff,researcher,2026-02-14,2026-02-14,2026-02-24,IIT Kanpur,USA,university_partner,desktop,8,24,275,1,0,True,False,True,True,False,,,False,none,0,,,False,0
+usr_198c5d3b1c,researcher,2026-01-20,2026-01-20,2026-04-14,Independent Researcher,India,direct,mobile,9,72,328,5,3,True,False,True,False,True,,,True,researcher_basic,300,2,2026-01-22,False,0
+usr_07daa56507,researcher,2026-02-25,2026-02-25,2026-06-27,Independent Researcher,Germany,organic_search,desktop,4,32,323,0,0,False,True,True,True,False,,,False,none,0,,,False,0
+usr_4943d023e8,researcher,2026-06-17,2026-06-17,2026-07-23,IIT Bombay,Singapore,word_of_mouth,desktop,8,32,108,3,2,True,False,True,False,False,,,False,none,0,,,False,1
+usr_b027dfc509,researcher,2026-01-01,2026-01-01,2026-05-02,Delhi University,Singapore,linkedin,desktop,10,60,101,1,0,True,False,True,False,True,,,False,none,0,,,False,1
+usr_f731a30e7b,researcher,2026-05-21,2026-05-21,2026-05-30,BITS Pilani,India,word_of_mouth,desktop,4,16,119,1,1,True,True,True,True,False,,,False,none,0,,,False,0
+usr_37a5709d7d,industry,2026-07-03,2026-07-03,2026-07-10,AgroFuture Labs,India,referral,desktop,4,24,130,14,2,,,False,True,False,False,False,False,none,0,,,False,2
+usr_20253cfbff,researcher,2026-07-01,2026-07-01,2026-07-11,Anna University,UAE,google_ads,desktop,9,36,97,5,2,True,False,False,False,True,,,False,none,0,,,False,0
+usr_c5803b185e,researcher,2026-03-28,2026-03-28,2026-05-23,NIT Trichy,India,referral,desktop,9,72,254,5,5,True,True,True,False,False,,,False,none,0,,,False,0
+usr_826d7e5d4d,researcher,2026-04-29,2026-04-29,2026-05-05,IIITD,India,university_partner,mobile,3,15,222,1,1,True,False,True,False,False,,,True,researcher_basic,300,18,2026-05-17,False,0
+usr_685982156a,industry,2026-03-09,2026-03-09,2026-07-08,IronClad Defense Systems,UAE,email_campaign,desktop,19,190,443,8,3,,,True,True,False,True,False,False,none,0,,,False,0
+usr_3a4c599bed,researcher,2026-01-17,2026-01-17,2026-03-24,Delhi University,India,industry_event,mobile,11,88,33,5,4,True,True,False,False,False,,,False,none,0,,,True,1
+usr_f122192262,industry,2026-07-19,2026-07-19,2026-07-23,Vertex Manufacturing,India,university_partner,desktop,9,54,375,10,5,,,True,True,False,True,False,False,none,0,,,False,0
+usr_8d68fcb2f0,industry,2026-03-04,2026-03-04,2026-05-05,Fusion Dynamics Corp,Germany,university_partner,desktop,10,50,403,10,4,,,True,True,False,False,True,True,industry_premium,20000,48,2026-04-21,False,0
+usr_1f118d8aa5,researcher,2026-07-01,2026-07-01,2026-07-15,Anna University,India,word_of_mouth,tablet,6,54,150,2,2,True,True,True,False,False,,,False,none,0,,,False,0
+usr_cd3febb041,researcher,2026-06-30,2026-06-30,2026-07-16,NIT Trichy,India,organic_search,desktop,4,12,86,4,0,True,False,True,False,False,,,False,none,0,,,False,0
+usr_967eb8b083,researcher,2026-05-07,2026-05-07,2026-06-25,IIT Delhi,India,direct,desktop,1,8,219,0,0,False,True,False,True,False,,,False,none,0,,,False,2
+usr_d88fd709dd,researcher,2026-01-21,2026-01-21,2026-04-25,IIT Madras,India,referral,tablet,1,3,142,5,5,True,False,False,False,True,,,False,none,0,,,True,0
+usr_d4db71198d,researcher,2026-02-23,2026-02-23,2026-03-08,Anna University,India,direct,mobile,7,63,213,0,0,False,True,True,False,True,,,False,none,0,,,True,1
+usr_4cbba2b1b6,industry,2026-02-07,2026-02-07,2026-05-28,IronClad Defense Systems,India,organic_search,desktop,17,85,70,7,4,,,True,True,True,False,False,False,none,0,,,True,0
+usr_531fc0d562,researcher,2026-02-14,2026-02-14,2026-05-28,IISc Bangalore,India,word_of_mouth,mobile,1,6,87,3,2,True,False,True,True,False,,,True,researcher_basic,300,10,2026-02-24,False,0
+usr_49607b1886,researcher,2026-01-26,2026-01-26,2026-05-27,IIT Madras,India,university_partner,desktop,9,54,135,5,4,True,False,False,True,False,,,False,none,0,,,True,1
+usr_953830b3f6,industry,2026-02-25,2026-02-25,2026-06-13,DeepCore AI,India,word_of_mouth,desktop,1,9,178,5,4,,,True,True,True,False,False,False,none,0,,,False,0
+usr_d2607a8ab7,researcher,2026-04-26,2026-04-26,2026-07-25,IIT Bombay,India,word_of_mouth,desktop,2,8,183,4,0,True,True,True,True,False,,,False,none,0,,,False,0
+usr_9cd26b255d,researcher,2026-06-10,2026-06-10,2026-07-05,IIITD,USA,direct,mobile,5,30,200,1,1,True,False,False,False,False,,,False,none,0,,,False,0
+usr_b3cdc4a410,industry,2026-07-06,2026-07-06,2026-07-14,IronClad Defense Systems,India,industry_event,mobile,3,30,329,5,0,,,True,True,False,True,True,True,industry_premium,20000,38,2026-08-13,False,0
+usr_4cd8a35dde,researcher,2026-06-03,2026-06-03,2026-06-25,Jadavpur University,India,word_of_mouth,mobile,2,10,147,2,0,True,True,True,False,True,,,False,none,0,,,False,0
+usr_0f2063a507,researcher,2026-01-24,2026-01-24,2026-06-02,IIT Roorkee,India,university_partner,mobile,8,32,20,2,0,True,False,False,False,False,,,False,none,0,,,False,0
+usr_56248f9512,researcher,2026-04-17,2026-04-17,2026-05-06,IIT Bombay,India,university_partner,desktop,1,6,285,1,1,True,True,False,True,False,,,False,none,0,,,True,0
+usr_bdcd46798c,researcher,2026-06-07,2026-06-07,2026-06-18,Delhi University,India,linkedin,desktop,7,49,220,0,0,False,False,False,False,False,,,False,none,0,,,True,0
+usr_86580124bb,researcher,2026-05-06,2026-05-06,2026-07-18,IIT Roorkee,Germany,university_partner,mobile,5,25,182,1,1,True,False,False,False,False,,,False,none,0,,,False,0
+usr_ae6001f0b4,researcher,2026-01-16,2026-01-16,2026-03-12,Independent Researcher,India,referral,mobile,12,96,53,5,4,True,False,False,False,False,,,False,none,0,,,True,1
+usr_5ff48529d6,industry,2026-06-20,2026-06-20,2026-06-27,MedTech Solutions,India,google_ads,desktop,2,12,309,15,3,,,True,False,False,False,False,False,none,0,,,False,0
+usr_ef03656558,industry,2026-06-28,2026-06-28,2026-07-09,Prime Biotech,India,industry_event,desktop,9,90,221,9,4,,,True,False,False,False,False,False,none,0,,,False,2
+usr_fc5f1af9a9,researcher,2026-03-19,2026-03-19,2026-06-04,IIT Hyderabad,UAE,word_of_mouth,desktop,4,24,113,1,0,True,True,True,False,True,,,False,none,0,,,True,0
+usr_9cbed800af,researcher,2026-07-17,2026-07-17,2026-07-23,Independent Researcher,Singapore,email_campaign,mobile,5,40,195,5,2,True,True,False,False,False,,,False,none,0,,,False,0
+usr_2399bdeb70,industry,2026-01-31,2026-01-31,2026-03-29,Prime Biotech,Singapore,direct,desktop,5,30,279,5,1,,,False,True,False,True,True,False,none,0,,,True,2
+usr_d714b0b6b0,industry,2026-01-01,2026-01-01,2026-06-20,AgroFuture Labs,India,direct,desktop,7,56,388,6,0,,,False,True,False,True,True,True,industry_standard,15000,50,2026-02-20,False,0
+usr_71a4c7fba0,researcher,2026-06-29,2026-06-29,2026-07-10,Anna University,UAE,linkedin,desktop,5,30,186,5,1,True,True,False,True,False,,,False,none,0,,,False,0
+usr_6728df84c7,researcher,2026-02-27,2026-02-27,2026-04-18,NIT Trichy,India,word_of_mouth,tablet,10,50,129,1,1,True,True,False,False,False,,,False,none,0,,,False,0
+usr_ad4220d4c7,researcher,2026-07-06,2026-07-06,2026-07-23,IIITD,India,email_campaign,mobile,4,28,187,5,4,True,True,False,False,True,,,False,none,0,,,False,0
+usr_ebc84c1b60,researcher,2026-06-23,2026-06-23,2026-07-11,IIT Madras,India,referral,mobile,5,45,189,0,0,False,False,True,True,True,,,False,none,0,,,False,0
+usr_08950e6d50,industry,2026-01-05,2026-01-05,2026-07-25,Lumen Photonics,UAE,referral,desktop,23,184,280,7,5,,,True,False,False,True,False,True,industry_premium,20000,13,2026-01-18,False,1
+usr_f6c0479f5a,industry,2026-01-24,2026-01-24,2026-05-01,Lumen Photonics,India,direct,mobile,1,7,270,3,2,,,True,True,False,True,True,False,none,0,,,False,0
+usr_51274a42b4,researcher,2026-07-05,2026-07-05,2026-07-14,IIT Bombay,India,linkedin,desktop,6,54,59,4,3,True,True,True,False,False,,,False,none,0,,,False,0
+usr_a939959e93,researcher,2026-03-09,2026-03-09,2026-05-06,IIITD,India,direct,mobile,9,45,32,5,0,True,True,False,False,False,,,False,none,0,,,True,0
+usr_5dc93a8528,researcher,2026-03-18,2026-03-18,2026-07-13,IIT Hyderabad,Singapore,linkedin,desktop,1,5,230,0,0,False,False,True,True,False,,,False,none,0,,,False,0
+usr_ba7f5f5e3c,researcher,2026-05-28,2026-05-28,2026-06-02,IIT Bombay,India,word_of_mouth,mobile,1,4,245,1,1,True,True,False,True,False,,,False,none,0,,,False,0
+usr_683bb767e9,researcher,2026-06-18,2026-06-18,2026-06-27,BITS Pilani,India,word_of_mouth,mobile,6,42,345,0,0,False,True,True,True,False,,,False,none,0,,,False,2
+usr_b69ce8cee6,researcher,2026-03-18,2026-03-18,2026-07-06,IIT Bombay,India,industry_event,desktop,4,32,166,2,0,True,False,False,True,True,,,False,none,0,,,False,0
+usr_4d2683f2bf,researcher,2026-07-01,2026-07-01,2026-07-13,Jadavpur University,India,referral,desktop,6,42,72,4,0,True,True,False,False,False,,,False,none,0,,,False,0
+usr_2146778103,researcher,2026-01-24,2026-01-24,2026-03-21,Independent Researcher,Singapore,university_partner,tablet,4,20,110,1,0,True,False,True,False,False,,,False,none,0,,,True,0
+usr_f141f3a0cc,industry,2026-02-04,2026-02-04,2026-07-01,Nova Materials Pvt Ltd,Singapore,linkedin,desktop,11,121,387,14,1,,,True,True,False,False,False,False,none,0,,,False,1
